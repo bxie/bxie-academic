@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Benjamin Xie
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Washington Information School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is in interactive tools for equitable computing education.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human-Computer Interaction (HCI)
+- Computing Education
+- Artificial Intelligence in Education
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Information Science
+    institution: University of Washington
+    year: 2016-
+  - course: MEng in Computer Science
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
+    year: 2016
+  - course: BS in Computer Science
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:bxie@uw.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BenjiXie
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=i9HjNMUAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bxie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab.  My research interest is in designing interactive tools that support equity in computing education by affording learners the agency to advocate for their own learning experiences. I engage with the fields of HCI, computing education, artificial intelligence in education, and psychometrics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a National Science Foundation (NSF) Graduate Research Fellow. I was previously an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and [MIT App Inventor](http://appinventor.mit.edu/).
+
+For more information, please contact me via [Twitter](https://twitter.com/BenjiXie) or [email](mailto:bxie@uw.edu)! Or have a look at my [publications](#publications) or [CV](/files/cv.pdf).
