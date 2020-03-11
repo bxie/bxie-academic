@@ -24,6 +24,7 @@ interests:
 - Human-Computer Interaction (HCI)
 - Computing Education
 - Artificial Intelligence in Education
+- Psychometrics
 
 education:
   courses:
