@@ -6,7 +6,7 @@ authors: ["Benjamin Xie", "Dastyni Loksa", "Greg L Nelson", "Matthew J Davidson"
 publication_types: ["2"]
 abstract: "Proposed theory of instruction to teach four distinct programming skills incrementally: tracing, writing syntax,
 comprehending reusable programming abstractions (templates), applying templates. Demonstrated that teaching
-these skills resulted improved certain learning outcomes."
+these skills resulted in improvement in certain learning outcomes."
 featured: true
 publication: "*Computer Science Education*"
 ---
