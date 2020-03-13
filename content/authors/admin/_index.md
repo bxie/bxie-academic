@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab.  My research interest is in designing interactive tools that support equity in computing education by affording learners the agency to advocate for their own learning experiences. I engage with the fields of HCI, computing education, artificial intelligence in education, and psychometrics.
+I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab.  My research interest is in designing interactive tools that support equity in computing education by affording learners the agency to advocate for their own learning experiences.
 
 I am a National Science Foundation (NSF) Graduate Research Fellow. I was previously an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and [MIT App Inventor](http://appinventor.mit.edu/).
 
