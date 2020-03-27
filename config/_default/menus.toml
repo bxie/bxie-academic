@@ -20,7 +20,8 @@
 
 [[main]]
   name = "Blog"
-  url = "#blog"
+  url = "https://medium.com/@benjixie"
+  # url = "#blog"
   weight = 40
 
 # [[main]]
