@@ -79,4 +79,4 @@ I am a PhD candidate at the University of Washington Information School, advised
 
 I am a National Science Foundation (NSF) Graduate Research Fellow. I was previously an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and [MIT App Inventor](http://appinventor.mit.edu/).
 
-For more information, please contact me via [Twitter](https://twitter.com/BenjiXie) or [email](mailto:bxie@uw.edu)! Or have a look at my [publications](#publications) or [CV](/files/cv.pdf).
+For more information, please contact me via [Twitter](https://twitter.com/BenjiXie) or [email](mailto:bxie@uw.edu)! Or have a look at my [projects](#projects) or [CV](/files/cv.pdf).
