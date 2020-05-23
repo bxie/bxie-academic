@@ -1,5 +1,5 @@
 ---
-title: "Improving Equity of Code.org's CS Discoveries Curriculum"
+title: "Improving equity of Code.org's CS Discoveries curriculum"
 summary: Investigating how Code.org CS Discoveries curriculum serves different sub-populations to improve the equity of learning experiences and outcomes.
 tags:
 - psychometrics

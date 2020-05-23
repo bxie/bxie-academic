@@ -1,5 +1,5 @@
 ---
-title: Addressing equity issues in computing classes
+title: Amplifying marginalized voices in computing courses
 summary: Tools to help learners share and instructors understand equity issues in a computing courses.
 tags:
 - computing education
