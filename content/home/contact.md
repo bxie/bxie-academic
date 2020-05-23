@@ -22,4 +22,4 @@ My preferred medium of communication is Slack direct message. I'm active on two 
 
 If you're not part of those Slack organizations, please reach out to me by email or on Twitter. 
 
-My office is in [Mary Gates Hall (MGH)](https://www.washington.edu/maps/?mgh), room 015.
+~~My lab is in [Mary Gates Hall (MGH)](https://www.washington.edu/maps/?mgh) 015.~~ I'm working remotely. Catch you on Zoom!
