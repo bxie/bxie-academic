@@ -2,7 +2,8 @@
 title: Addressing equity issues in computing classes
 summary: Tools to help learners share and instructors understand equity issues in a computing courses.
 tags:
-# - Deep Learning
+- computing education
+- student feedback
 date: "2020-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

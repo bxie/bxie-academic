@@ -2,7 +2,8 @@
 title: "Codeitz: An adaptive learning experience that lets learners decide"
 summary: Designing for learner agency in self-directed online learning experiences
 tags:
-# - online learning
+- online learning
+- computing education
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +12,7 @@ external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  description: mock-up
+  description: Navigation pane of Codeitz
 
 # links:
 # - icon: twitter
