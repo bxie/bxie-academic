@@ -29,3 +29,4 @@
   from = "/cv"
   to = "/files/cv.pdf"
   status = 301
+  force = true
