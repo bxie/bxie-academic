@@ -77,6 +77,6 @@ user_groups:
 
 I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab.  My research interest is in designing interactive tools that support equity in computing education by affording learners the agency to advocate for their own learning experiences.
 
-I am a National Science Foundation (NSF) Graduate Research Fellow. I was previously an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and [MIT App Inventor](http://appinventor.mit.edu/).
+I am a National Science Foundation (NSF) Graduate Research Fellow. I was previously an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
 
-For more information, please contact me via [Twitter](https://twitter.com/BenjiXie) or [email](mailto:bxie@uw.edu)! Or have a look at my [projects](#projects) or [CV](/files/cv.pdf).
+For more information, please [reach out to me](#contact)! Or have a look at my [projects](#projects), [papers](/publication), or [CV](/files/cv.pdf).
