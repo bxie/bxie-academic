@@ -24,9 +24,3 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
-
-[[redirects]]
-  from = "/cv"
-  to = "/files/cv.pdf"
-  status = 301
-  force = true
