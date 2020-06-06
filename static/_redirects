@@ -1,5 +1,5 @@
 /cv /files/cv.pdf
-/resume /files/cv.pdf # TODO: change to resume if I ever add one
+/resume /files/cv.pdf
 
 # redirects with URL changes require 302
 /koconut https://cyberlearning-1d4e0.firebaseapp.com/signin 302
