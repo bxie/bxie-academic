@@ -24,7 +24,7 @@
   weight = 40 
 
 [[main]]
-  name = "blog (medium)"
+  name = "blog <i class='fas fa-external-link-alt'></i>"
   url = "https://medium.com/@benjixie"
   # url = "#blog"
   weight = 50
