@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Article on learning & HCI published to ACM Interactions"
+  url = "https://interactions.acm.org/blog/view/learning-and-education-in-hci-a-reflection-on-the-sig-at-chi-2019"
+  date = "2020-08-04"
+  description = "A follow-up report on a CHI 2019 SIG I organized was published as a blog post to the ACM Interactions (IX) magazine."
+  url_text = ""
+
+[[item]]
   title = "NSF-funded summer internship w/ Code.org"
   url = ""
   date = "2020-06-22"
