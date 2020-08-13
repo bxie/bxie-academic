@@ -54,6 +54,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BenjiXie
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/benjaminxie/  
 - icon: medium-m
   icon_pack: fab
   link: https://medium.com/@benjixie
