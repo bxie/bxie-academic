@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Article published in Communications of the ACM (CACM)"
+  url = "https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext"
+  date = "2020-11-01"
+  description = "My lab wrote a position paper calling for more critical perspectives in CS education."
+  url_text = ""
+
+[[item]]
   title = "Article published in ACM Interactions (IX) magazine"
   url = "https://interactions.acm.org/blog/view/learning-and-education-in-hci-a-reflection-on-the-sig-at-chi-2019"
   date = "2020-08-04"
@@ -26,18 +33,18 @@ date_format = "Jan 2006"
   url_text = ""
 
 [[item]]
-  title = "NSF-funded summer internship w/ Code.org"
+  title = "NSF-funded internship w/ Code.org"
   url = ""
   date = "2020-06-22"
-  description = "I'm spending the summer researching at Code.org to assess and address bias in their middle school CS Discoveries curriculum."
+  description = "I'm interning with Code.org to assess and address bias in their middle school CS Discoveries curriculum."
   url_text = ""
 
 
-[[item]]
-  title = "Paper accepted to L@S 2020"
-  url = "/publication/las-2020"
-  date = "2020-04-01"
-  description = "Paper on designing for agency in self-directed online learning accepted to 2020 ACM Learning @ Scale."
-  url_text = ""
+# [[item]]
+#   title = "Paper accepted to L@S 2020"
+#   url = "/publication/las-2020"
+#   date = "2020-04-01"
+#   description = "Paper on designing for agency in self-directed online learning accepted to 2020 ACM Learning @ Scale."
+#   url_text = ""
 
 +++
