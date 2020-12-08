@@ -33,6 +33,6 @@ slides: ""
 
 Introductory computing courses are often exclusionary spaces where students with prepartory privillege (e.g. prior programming experience, supportive peers) can succeed and those who don't feel they are "coders" face unnecessary challenges. This projects works towards the vision of making introductory computing courses equitable learning experiences by designing instruction that teaches critical but often overlooked programming skills. 
 
-I have tried to make introductory programming courses more accessible by designing and evaluating _explicit instruction_, strategies that provide instruction and scaffolded practice opportunities to teach specific introductory programming skills. Our work has found that simple 
+I have tried to make introductory programming courses more accessible by designing and evaluating _explicit instruction_, strategies that provide instruction and scaffolded practice opportunities to teach specific introductory programming skills. Our work has found that [simple strategies can improve how students read/trace code](/publication/sigcse-2018).
 
 This work is in collaboration with the [UW College of Education](https://education.uw.edu/).
