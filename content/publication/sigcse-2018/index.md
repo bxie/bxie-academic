@@ -16,7 +16,7 @@ links:
 ---
 
 ### Impact
-**Integrated with Code.org CS Principles** (2019): In collaboration with GT Wrobel at Code.org, we integrated strategies and ideas from this paper into Code.org's [Computer Scince Principles](https://code.org/educate/csp) curriculum to help improve the experiences of the 50,000 students a year who use it to learn computing!
+**Integrated with Code.org CS Principles** (2019): In collaboration with GT Wrobel at Code.org, we integrated strategies and ideas from this paper into Code.org's [Computer Scince Principles](https://code.org/educate/csp) 2020-'21 curriculum to help improve the experiences of the 50,000 students a year who use it to learn computing!
 
 ### What others are saying:
 > When I was teaching CS A, I always tried to get students to trace their code on scrap paper (don't try to keep it all in your head!). This research actually taught a specific tracing strategy, even better!
