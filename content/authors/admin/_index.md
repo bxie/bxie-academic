@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is in interactive tools for equitable computing education.
+bio: Designing interactive tools for equitable computing education.
 
 interests:
 - Human-Computer Interaction (HCI)
