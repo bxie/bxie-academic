@@ -19,25 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Google Cloud Research Grant for Student Amp"
+  url = "/project/studentamp/"
+  date = "2020-12-20"
+  description = "My advisor and I were awarded a grant by Google Cloud for Student Amp, a tool to help instructors address equity issues in CS courses."
+  url_text = "about Student Amp"
+
+[[item]]
+  title = "Article published in ACM Crossroads (XRDS) Magazine"
+  url = "https://xrds.acm.org/article.cfm?aid=3433136"
+  date = "2020-12-01"
+  description = "I describe techniques I am exploring in my dissertation to use data to support equity in computing education."
+  url_text = "see article"
+
+[[item]]
   title = "Article published in Communications of the ACM (CACM)"
   url = "https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext"
   date = "2020-11-01"
   description = "My lab wrote a position paper calling for more critical perspectives in CS education."
-  url_text = ""
+  url_text = "see article"
 
-[[item]]
-  title = "Article published in ACM Interactions (IX) magazine"
-  url = "https://interactions.acm.org/blog/view/learning-and-education-in-hci-a-reflection-on-the-sig-at-chi-2019"
-  date = "2020-08-04"
-  description = "A follow-up report on my CHI 2019 SIG on learning & education in HCI was published as a blog post to the ACM Interactions (IX) magazine."
-  url_text = ""
+#[[item]]
+#  title = "Article published in ACM Interactions (IX) magazine"
+#  url = "https://interactions.acm.org/blog/view/learning-and-education-in-hci-a-reflection-on-the-sig-at-chi-2019"
+#  date = "2020-08-04"
+#  description = "A follow-up report on my CHI 2019 SIG on learning & education in HCI was published as a blog post to the ACM Interactions (IX) magazine."
+#  url_text = ""
 
-[[item]]
-  title = "NSF-funded internship w/ Code.org"
-  url = ""
-  date = "2020-06-22"
-  description = "I'm interning with Code.org to assess and address bias in their middle school CS Discoveries curriculum."
-  url_text = ""
+#[[item]]
+#  title = "NSF-funded internship w/ Code.org"
+#  url = ""
+#  date = "2020-06-22"
+#  description = "I'm interning with Code.org to assess and address bias in their middle school CS Discoveries curriculum."
+#  url_text = ""
 
 
 # [[item]]
