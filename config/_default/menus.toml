@@ -29,6 +29,11 @@
   # url = "#blog"
   weight = 50
 
+[[main]]
+  name = "cv"
+  url = "/files/cv.pdf"
+  weight = 60
+
 # [[main]]
 #   name = "Impact"
 #   url = "#impact"
