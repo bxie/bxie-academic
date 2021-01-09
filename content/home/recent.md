@@ -27,14 +27,14 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Article published in ACM Crossroads (XRDS) Magazine"
-  url = "https://xrds.acm.org/article.cfm?aid=3433136"
+  url = "/publication/xrds-2020/"
   date = "2020-12-01"
   description = "I describe techniques I am exploring in my dissertation to use data to support equity in computing education."
   url_text = "see article"
 
 [[item]]
   title = "Article published in Communications of the ACM (CACM)"
-  url = "https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext"
+  url = "/publication/cacm-2020/"
   date = "2020-11-01"
   description = "My lab wrote a position paper calling for more critical perspectives in CS education."
   url_text = "see article"
