@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Paper published to Learning @ Scale 2021"
+  url = "/publication/las-2021/"
+  date = "2021-06-23"
+  description = "In collaboration with Code.org, I explored how domain experts interperted data on test bias for equitable action."
+  url_text = "see article"
+
+[[item]]
+  title = "Awarded Husky 100"
+  url = "https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100"
+  date = "2021-05-24"
+  description = "Awarded to 100 students across UW’s three campuses who make the most of their time."
+  url_text = "see announcement"
+
+[[item]]
   title = "Google Cloud Research Grant for Student Amp"
   url = "/project/studentamp/"
   date = "2020-12-20"
@@ -32,12 +46,19 @@ date_format = "Jan 2006"
   description = "I describe techniques I am exploring in my dissertation to use data to support equity in computing education."
   url_text = "see article"
 
-[[item]]
-  title = "Article published in Communications of the ACM (CACM)"
-  url = "/publication/cacm-2020/"
-  date = "2020-11-01"
-  description = "My lab wrote a position paper calling for more critical perspectives in CS education."
-  url_text = "see article"
+# [[item]]
+#   title = "Google Cloud Research Grant for Student Amp"
+#   url = "/project/studentamp/"
+#   date = "2020-12-20"
+#   description = "My advisor and I were awarded a grant by Google Cloud for Student Amp, a tool to help instructors address equity issues in CS courses."
+#   url_text = "about Student Amp"
+
+# [[item]]
+#   title = "Article published in Communications of the ACM (CACM)"
+#   url = "/publication/cacm-2020/"
+#   date = "2020-11-01"
+#   description = "My lab wrote a position paper calling for more critical perspectives in CS education."
+#   url_text = "see article"
 
 #[[item]]
 #  title = "Article published in ACM Interactions (IX) magazine"
