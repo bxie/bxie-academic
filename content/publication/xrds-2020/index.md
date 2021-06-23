@@ -3,7 +3,7 @@
 
 title: "How data can support equity in computing education"
 authors: [Benjamin Xie]
-date: 2021-12-14
+date: 2020-12-14
 doi: "10.1145/3433136"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_short: "XRDS"
 abstract: "Data has historically been a tool of oppression. But if we consider how its interpretations and uses affect minoritized groups, data-driven tools could support diversity, equity, and inclusion in computing education and beyond."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Describing techniques I used in my dissertation to use data to support equity in computing education."
 
 tags: []
 categories: []
