@@ -81,6 +81,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+👋 **I am on the job market! Seeking postdoc or research scientist opportunities related to equitable interactions with data. [Let's chat!](#contact)**
 
 I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab.  My research interest is in designing interactive tools that support equity in computing education by contextualizing data about students with data from students.
 
