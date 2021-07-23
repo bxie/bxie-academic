@@ -8,7 +8,7 @@ weight = 70  # Order that this section will appear.
 title = "Travel"
 subtitle = """where I've been & where I'm going
 
-_updated: 22 june 2020_"""
+_updated: July 2021_"""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,6 +18,36 @@ date_format = "Jan 2006"
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title` and `date_start`.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+# 2021
+[[experience]]
+  title = "ICER: ACM International Computing Education Research Conference"
+  location = "Virtual Event"
+  url = "https://icer2021.acm.org/"
+  date_start = "2021-08-16"
+  description = """Presented my dissertation work at the doctoral colloquium and also served as a student volunteer."""
+
+[[experience]]
+  title = "L@S: ACM Conference on Learning at Scale"
+  location = "Virtual Event"
+  url = "https://emoocs.hpi.de/index.php/call-for-papers/ls/"
+  date_start = "2021-06-12"
+  description = """Presented [paper](/publication/las-2021) on domain experts' interpertations of test bias, a collaboration with nonprofit Code.org
+  """
+
+[[experience]]
+  title = "CHI: ACM Conference on Human Factors in Computing Systems"
+  location = "Virtual Event"
+  url = "https://chi2021.acm.org/"
+  date_start = "2021-05-13"
+  description = """"""  
+
+[[experience]]
+  title = "SIGCSE Technical Symposium on Computer Science Education"
+  location = "Virtual Event"
+  url = "https://sigcse2021.sigcse.org/"
+  date_start = "2021-03-13"
+  description = """"""
 
 # 2020
 [[experience]]
