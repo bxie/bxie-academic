@@ -1,7 +1,7 @@
 ---
 title: 'Computing Edu Job Calls'
 subtitle: Sharing a spreadsheet of computing edu job calls
-summary: Academic and industry job calls related to computing education 
+summary: Sharing a spreadsheet of computing edu job calls
 authors:
 - admin
 tags:
