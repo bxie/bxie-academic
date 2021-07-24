@@ -40,11 +40,6 @@
 #   weight = 60  
 
 # [[main]]
-#   name = "Travel"
-#   url = "#travel"
-#   weight = 70
-
-# [[main]]
 #   name = "Bio"
 #   url = "#bio"
 #   weight = 80
