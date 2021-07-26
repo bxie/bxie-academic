@@ -28,7 +28,7 @@ header:
 # Bio
 Benjamin "Benji" Xie (pronounced ['she' + 'eh'](https://www.pronouncenames.com/pronounce/xie)) is a PhD candidate at the University of Washington Information School, advised by Prof. Amy J. Ko. He designs and evaluates ways to use data to support equity and justice in educational contexts. His doctoral research explores interpretations and uses of data for equity in computing education. He publishes his work to computing education and human-computer interaction communities. He is a National Science Foundation (NSF) Graduate Research Fellow and was previously an MIT EECS-Google Research and Innovation Scholar during his time at MIT researching with Prof. Hal Abelson and MIT App Inventor. He received Master's and undergraduate degrees in computer science from MIT.
 
-# Research timeline
+# Research Timeline
 Updated July 2021. A few life events included to provide context. 
 
 - **2021**: I deployed and evaluated [Student Amp](/project/studentamp/), a tool collects contextualized student feedback so teaching teams can understand inequities in large remote computing courses. I was named among the [2021 Husky 100](https://web.archive.org/web/20210524172813/https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100) by UW. I also [proposed my dissertation](https://web.archive.org/web/20210726202815/https://ischool.uw.edu/events/2021/06/dissertation-proposal-defense-benjamin-xie) in the spring.
@@ -47,13 +47,13 @@ Updated July 2021. A few life events included to provide context.
 
 - **2011-15**: As an undergraduate at MIT, I studied computer science with a humanities concentration in education. I researched with [Hal Abelson](https://www.csail.mit.edu/person/hal-abelson) and MIT [App Inventor](https://appinventor.mit.edu/) as an MIT EECS-Google Research and Innovation Scholar. I also conducted research with the MIT [Scheller Teacher Education Program](https://web.mit.edu/mitstep/projects.html) to help build [TaleBlazer](http://taleblazer.org/). I spent summers working as a software engineering intern at AppNexus in 2014 and eBay in 2013. I also volunteered with Boston-based non-profits as part of [MIT Code for Good](http://codeforgood.mit.edu/).
 
-# Running
+# Running is my meditation
 {{< gallery >}}
 
 Besides being a student and researcher, I also ran competitively in college. Since the age of 10, running was my been my way of keeping my body busy so my mind could focus.
 
-In my PhD, I ran marathons as part of [Club Northwest](https://www.clubnorthwest.org/benjamin-xie). I placed second at the 2020 Disney World Marathon and also completed two Boston Marathons (2018, 19). Because I ran for the MIT Cross Country and Track teams when the 2013 Boston Marathon bombings and subsequent murder of MIT police office Sean Collier occurred, completing the Boston Marathon was a momentous occassion for me.
+In my PhD, I ran marathons as part of [Club Northwest](https://www.clubnorthwest.org/benjamin-xie). I placed second at the 2020 Disney World Marathon and also completed two Boston Marathons (2018, 19). I was in Boston running for the MIT Track team when the 2013 Boston Marathon bombings and subsequent murder of MIT police office Sean Collier occurred, so completing the Boston Marathon was a momentous occassion for me.
 
 In my Master's, I was a [volunteer assistant coach](https://web.archive.org/web/20160328101546/http://mitathletics.com/sports/m-xc/coaches/index) for MIT cross country in the fall. I competed as part of the [MIT track team](https://web.archive.org/web/20210726174602/https://mit.prestosports.com/sports/m-track/2015-16/bios/xie_benji_2sje) in the spring.
 
-In my undergraduate years, I competeted with the MIT Cross Country, Indoor & Outdoor Track Teams. I served as captain for the later two years, during which the MIT Cross Country team won conference, placed top 3 in regionals, and qualified for national championships both years. My individual accolades included breaking a school record (indoor 5,000m: 14:30.08) as well as earning Academic All-Region, All-Region, All-Conference, and Most Improved. 
+In my undergraduate years, I competed in NCAA Division III with the MIT Cross Country, Indoor & Outdoor Track Teams. I served as a cross country captain for the later two years, during which the MIT Cross Country team won conference, placed top 3 in regionals, and qualified for national championships both years. My individual accolades included breaking a school record (indoor 5,000m: 14:30.08) as well as earning Academic All-Region, All-Region, Academic All-Conference, All-Conference, and Most Improved. 
