@@ -1,6 +1,6 @@
 ---
-title: 'Seeking Postdoc, Research Scientist Position'
-subtitle: "I'm looking for research opportunities related to data equity & education!"
+title: 'Hire me as a postdoc or research scientist!'
+subtitle: "I'm looking for research opportunities related to data equity & education."
 summary: I'm seeking postdoc opportunities related to data equity & education!
 authors:
 - admin
@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-**I am seeking postdoctoral opportunities or research scientist opportunities that begin Jan - Sep 2022.** I am currently a Ph.D. candidate at the University of Washington Information School advised by Prof. Amy J. Ko. I plan to defend my dissertation in Dec 2021.
+**I am seeking postdoctoral opportunities or research scientist opportunities that begin Jan - Oct 2022.** I am currently a Ph.D. candidate at the University of Washington Information School advised by Prof. Amy J. Ko. I plan to defend my dissertation in Dec 2021.
 
 ## Prior research: Data equity in CS education
 
