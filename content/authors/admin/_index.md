@@ -83,8 +83,8 @@ user_groups:
 ---
 👋 **I'm on the job market! Seeking postdoc or research scientist opportunities related to equitable interactions with data. [Learn about my research interests](/hireme).**
 
-I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab. I am also a research intern at non-profit [Code.org](https://code.org/about/). My research interest is in designing interactive tools that support equity in computing education by contextualizing data about students with data from students.
+I am a PhD candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab. I am also a research intern at non-profit Code.org. My research interest is in designing interactive tools that support equity in computing education by contextualizing data about students with data from students.
 
 I am a National Science Foundation (NSF) Graduate Research Fellow. I was previously an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
 
-For more information, please [reach out to me](#contact)! Or have a look at my [projects](#projects), [papers](/publication), or [CV](/files/cv.pdf).
+For more information, see [about me](/about), [projects](#projects), or [CV](/files/cv.pdf).
