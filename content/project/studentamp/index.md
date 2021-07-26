@@ -37,4 +37,6 @@ Students face challenges that are often invisible to their instructors or even t
 
 By developing tools that enable students to effortlessly and privately share their course experiences and empower both students and instructors to interpret contextualized data to understand experiences of under-served learners, we can help make computing courses more equitable learning environments.
 
+Try it out at [StudentAmp.com](https://studentamp.com/).
+
 This project is in collaboration with the [UW College of Education](https://education.uw.edu/) and [UW Office for the Advancement of Engineering Teaching & Learning](https://www.engr.washington.edu/mycoe/oaetl). It is funded by grants from the National Science Foundation and Google Cloud.
