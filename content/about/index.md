@@ -50,7 +50,7 @@ Updated July 2021. A few life events included to provide context.
 # Running is my meditation
 {{< gallery >}}
 
-Besides being a student and researcher, I also ran competitively in college. Since the age of 10, running was my been my way of keeping my body busy so my mind could focus.
+Besides being a student and researcher, I also ran competitively in college. Since the age of 10, running has been my way of keeping my body busy so my mind could focus.
 
 In my PhD, I ran marathons as part of [Club Northwest](https://www.clubnorthwest.org/benjamin-xie). I placed second at the 2020 Disney World Marathon and also completed two Boston Marathons (2018, 19). I was in Boston running for the MIT Track team when the 2013 Boston Marathon bombings and subsequent murder of MIT police office Sean Collier occurred, so completing the Boston Marathon was a momentous occassion for me.
 
