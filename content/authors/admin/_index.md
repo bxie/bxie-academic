@@ -3,7 +3,7 @@
 name: Benjamin Xie
 
 # pronouns
-pronouns: he/him
+pronouns: he/they
 pronouns_url: "https://www.mypronouns.org/he-him"
 
 # Username (this should match the folder name)
