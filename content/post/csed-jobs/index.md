@@ -1,7 +1,7 @@
 ---
-title: 'Computing Edu Job Calls'
-subtitle: Sharing a spreadsheet of computing edu job calls
-summary: Sharing a spreadsheet of computing edu job calls
+title: 'Job Calls for Research in CS & STEM Edu, HCI'
+subtitle: Sharing a spreadsheet of job calls related to computing edu, STEM edu, HCI & edu research
+summary: Sharing a spreadsheet of job calls related to computing edu, STEM edu, HCI & edu research
 authors:
 - admin
 tags:
@@ -31,11 +31,11 @@ image:
 projects: []
 ---
 
-In preparation for [going on the job market](/post/postdoc-search/), I'm compiling computing & STEM education and HCI related job calls for academic, industry, and non-profit:
+In preparation for [going on the job market](/post/postdoc-search/), I'm compiling computing & STEM education and HCI job calls for academic, industry, and non-profit jobs:
 
-**[:scroll: GSheet: Job Calls for Computing Edu, HCI & Edu, STEM Edu (2021-)](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)**
+**[:scroll: GSheet: Job Calls for Research in CS & STEM Edu, HCI (2021-)](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)**
 
-Pass this on to anyone who may be looking to hire for or get hired for computing education with this short link: [benjixie.com/csedjobs](https://benjixie.com/csedjobs)
+Pass this on to anyone who may be looking to hire for or get hired with this short link: [benjixie.com/csedjobs](https://benjixie.com/csedjobs)
 
 ## More info
 
