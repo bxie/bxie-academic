@@ -9,7 +9,7 @@ tags:
 categories:
 - postdoc search
 date: "2021-07-20T00:00:00Z"
-lastmod: "2021-07-20T00:00:00Z"
+lastmod: "2021-09-17T00:00:00Z"
 featured: false
 draft: false
 
@@ -18,8 +18,8 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  placement: 1
+  caption: 'benjixie.com/csedjobs is a list of job calls related to computing edu, STEM edu, and HCI & edu research. [See job calls.](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)'
   focal_point: ""
   preview_only: false
 
@@ -31,14 +31,14 @@ image:
 projects: []
 ---
 
-In preparation for [going on the job market](/post/postdoc-search/), I've been compiling computing education related job calls for academic, industry, and non-profit positions:
+In preparation for [going on the job market](/post/postdoc-search/), I'm compiling computing & STEM education and HCI related job calls for academic, industry, and non-profit:
 
-**[:scroll: GSheet: Computing Edu Job Calls (2021-)](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)**
+**[:scroll: GSheet: Job Calls for Computing Edu, HCI & Edu, STEM Edu (2021-)](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)**
 
 Pass this on to anyone who may be looking to hire for or get hired for computing education with this short link: [benjixie.com/csedjobs](https://benjixie.com/csedjobs)
 
 ## More info
 
-My goal is to share all job calls I discover to ensure all computing education PhD students are aware and familiar with job calls that are relevant to them. One (of many) factors that make job searches an exclusionary experience is that only a select few are aware of job calls that are applicable for a broader audience. So I want to help broadcast job calls to people who may be a few hops further on the social network.
+My goal is to share all job calls I discover to ensure all PhD students researching computing education, STEM education, and HCI & education are aware and familiar with job calls that are relevant to them. One (of many) factors that make job searches an exclusionary experience is that only a select few are aware of job calls that are applicable for a broader audience. So I want to help broadcast job calls to people who may be a few hops further on the social network. Down with the [Hidden Curriculum](https://www.science.org/careers/2019/05/i-felt-lost-new-academic-culture-then-i-learned-about-hidden-curriculum)!
 
 Let me know if you would like to add a job call to the spreadsheet or update an existing one! And see the [FAQ](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing) to learn more.
