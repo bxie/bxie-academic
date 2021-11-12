@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Defending my dissertation 11/29"
+  url = "https://ischool.uw.edu/events/2021/11/dissertation-defense-benjamin-xie"
+  date = "2021-11-29"
+  description = "I'm defending my dissertation titled 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
+  url_text = "Join me at my defense!"
+
+[[item]]
+  title = "Presented at UW DUB Seminar"
+  url = "https://vimeo.com/587508265/1ac7ba79e0"
+  date = "2021-07-21"
+  description = "I presented my work on curriculum designers' interpretations of test bias data at the UW DUB seminar on HCI and design.'"
+  url_text = "see recording"  
+
+[[item]]
   title = "Paper published to Learning @ Scale 2021"
   url = "/publication/las-2021/"
   date = "2021-06-23"
@@ -32,19 +46,19 @@ date_format = "Jan 2006"
   description = "Awarded to 100 students across UW’s three campuses who make the most of their time."
   url_text = "see announcement"
 
-[[item]]
-  title = "Google Cloud Research Grant for Student Amp"
-  url = "/project/studentamp/"
-  date = "2020-12-20"
-  description = "My advisor and I were awarded a grant by Google Cloud for Student Amp, a tool to help instructors address equity issues in CS courses."
-  url_text = "about Student Amp"
+# [[item]]
+#  title = "Google Cloud Research Grant for Student Amp"
+#  url = "/project/studentamp/"
+#  date = "2020-12-20"
+#  description = "My advisor and I were awarded a grant by Google Cloud for Student Amp, a tool to help instructors address equity issues in CS courses."
+#  url_text = "about Student Amp"
 
-[[item]]
-  title = "Article published in ACM Crossroads (XRDS) Magazine"
-  url = "/publication/xrds-2020/"
-  date = "2020-12-01"
-  description = "I describe techniques I am exploring in my dissertation to use data to support equity in computing education."
-  url_text = "see article"
+# [[item]]
+#   title = "Article published in ACM Crossroads (XRDS) Magazine"
+#   url = "/publication/xrds-2020/"
+#   date = "2020-12-01"
+#   description = "I describe techniques I am exploring in my dissertation to use data to support equity in computing education."
+#  url_text = "see article"
 
 # [[item]]
 #   title = "Google Cloud Research Grant for Student Amp"
