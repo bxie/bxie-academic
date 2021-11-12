@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   title = "Presented at UW DUB Seminar"
   url = "https://vimeo.com/587508265/1ac7ba79e0"
   date = "2021-07-21"
-  description = "I presented my work on curriculum designers' interpretations of test bias data at the UW DUB seminar on HCI and design.'"
+  description = "I presented my work on curriculum designers' interpretations of test bias data at the UW DUB seminar on HCI and design."
   url_text = "see recording"  
 
 [[item]]
