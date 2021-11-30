@@ -19,11 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Defending my dissertation 11/29"
+  title = "Defended my dissertation! 🎓"
   url = "https://ischool.uw.edu/events/2021/11/dissertation-defense-benjamin-xie"
   date = "2021-11-29"
-  description = "I'm defending my dissertation titled 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
-  url_text = "Join me at my defense!"
+  description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
+
+[[item]]
+  title = "Paper published to CSCW 2022 / PACMHCI!"
+  url = "https://cscw.acm.org/2022/"
+  date = "2021-11-28"
+  description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
+  url_text = "about CSCW 2022"
 
 [[item]]
   title = "Presented at UW DUB Seminar"
@@ -33,18 +39,18 @@ date_format = "Jan 2006"
   url_text = "see recording"  
 
 [[item]]
-  title = "Paper published to Learning @ Scale 2021"
-  url = "/publication/las-2021/"
-  date = "2021-06-23"
-  description = "In collaboration with Code.org, I explored how domain experts interperted data on test bias for equitable action."
-  url_text = "see article"
-
-[[item]]
   title = "Awarded Husky 100"
   url = "https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100"
   date = "2021-05-24"
   description = "Awarded to 100 students across UW’s three campuses who make the most of their time."
   url_text = "see announcement"
+
+# [[item]]
+#   title = "Paper published to Learning @ Scale 2021"
+#   url = "/publication/las-2021/"
+#   date = "2021-06-23"
+#   description = "In collaboration with Code.org, I explored how domain experts interperted data on test bias for equitable action."
+#   url_text = "see article"
 
 # [[item]]
 #  title = "Google Cloud Research Grant for Student Amp"
