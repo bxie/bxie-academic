@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
