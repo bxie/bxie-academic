@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Defended my dissertation! 🎓"
-  url = "https://ischool.uw.edu/events/2021/11/dissertation-defense-benjamin-xie"
+  url = "/publication/dissertation"
   date = "2021-11-29"
   description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
 
