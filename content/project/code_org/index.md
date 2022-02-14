@@ -12,7 +12,7 @@ external_link: ""
 image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  description: Code logo
+  description: Evidence of potential test item bias (DIF) by reported gender.
 
 # links:
 # - icon: twitter
@@ -32,8 +32,10 @@ image:
 slides: ""
 ---
 
-Code.org is a non-profit organization that engages a global community of computer science teachers and learners. Core to this mission is ensuring that its learning materials are inclusive to the diverse subpopulations that rely on them to teach and learn computing. And while careful design of learning materials is important in ensuring equitable outcomes, instructional designers must constantly iterate and improve upon these materials. To inform this iteration process, I am conducting a psychometric analysis of learner response data to identify, validate, and address equity issues within the CS Discoveries curriculum.
+Code.org is a non-profit organization that engages a global community of computer science teachers and learners. Core to this mission is ensuring that its learning materials are inclusive to the diverse subpopulations that rely on them to teach and learn computing. And while careful design of learning materials is important in ensuring equitable outcomes, instructional designers must constantly iterate and improve upon these materials. To inform this iteration process, I conducted a psychometric analysis of learner response data to identify, validate, and address equity issues within the CS Discoveries curriculum.
 
-To understand how equitable learning outcomes are and improve them, I am using methods from the fields of psychometrics, learning sciences, and human-computer interaction. This process involves research-practice partnerships in which we consider how end-users (e.g. teachers, students) interpret and use assessment scores, analyze data from learner responses to identify potentially problematic patterns, and follow-up with end-users to validate and address these problems.
+To understand how equitable learning outcomes are and improve them, I used methods from the fields of psychometrics, learning sciences, and human-computer interaction. This process involved research-practice partnerships in which we consider how end-users (e.g. curriculum designers) interpreted and used assessment scores, analyzed data from learner responses to identify potentially problematic patterns, and considered equitable change.
 
-This work is in collaboration with Baker Franke and Code.org and funded by an NSF INTERN award.
+To learn more, see our [paper we published to 2021 ACM Learning @ Scale](/publication/las-2021).
+
+This work was in collaboration with Code.org and the UW College of Education and was funded by an NSF INTERN award.
