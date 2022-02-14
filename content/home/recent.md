@@ -17,19 +17,18 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  title = "Paper published to CSCW 2022 / PACMHCI!"
+  url = "/publication/cscw-2022"
+  date = "2022-02-13"
+  description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
+  url_text = "see paper"
 
 [[item]]
   title = "Defended my dissertation! 🎓"
   url = "/publication/dissertation"
   date = "2021-11-29"
   description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
-
-[[item]]
-  title = "Paper published to CSCW 2022 / PACMHCI!"
-  url = "/publication/cscw-2022"
-  date = "2021-11-28"
-  description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
-  url_text = "see paper"
 
 [[item]]
   title = "Presented at UW DUB Seminar"
