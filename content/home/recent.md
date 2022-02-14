@@ -26,10 +26,10 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Paper published to CSCW 2022 / PACMHCI!"
-  url = "https://cscw.acm.org/2022/"
+  url = "/publication/cscw-2022"
   date = "2021-11-28"
   description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
-  url_text = "about CSCW 2022"
+  url_text = "see paper"
 
 [[item]]
   title = "Presented at UW DUB Seminar"
