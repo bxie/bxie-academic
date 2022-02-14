@@ -54,7 +54,7 @@
   url = "#contact"
   weight = 100
 
-[[main]]
-  name = "HIRE ME!"
-  url = "/hireme"
-  weight = 110
+# [[main]]
+#   name = "HIRE ME!"
+#   url = "/hireme"
+#   weight = 110
