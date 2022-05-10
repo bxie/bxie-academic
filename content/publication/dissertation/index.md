@@ -42,8 +42,10 @@ featured: false
 #   icon: twitter
 
 links:
-# - name: supplementary info
-  # url: https://github.com/codeandcognition/archive-2021las-xie
+- name: summary (2 pgs)
+  url: publication/dissertation/dissertation_summary.pdf
+- name: extended abstract (10 pgs)
+  url: publication/dissertation/dissertation_abstract.pdf
 
 url_pdf:
 url_code:
