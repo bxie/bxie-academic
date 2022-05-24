@@ -28,14 +28,14 @@ interests:
 - Human-Computer Interaction (HCI)
 - Computing Education
 - Critical Data Studies
-- Artificial Intelligence in Education
-- Psychometrics
+- Artificial Intelligence, Ethics, and Society
+- Design Justice
 
 education:
   courses:
   - course: PhD in Information Science
     institution: University of Washington
-    year: 2021
+    year: 2022
   - course: MEng in Computer Science
     institution: Massachusetts Institute of Technology
     year: 2016

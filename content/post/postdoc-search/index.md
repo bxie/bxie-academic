@@ -9,7 +9,7 @@ tags:
 categories:
 - postdoc search
 date: "2021-07-23T00:00:00Z"
-lastmod: "2021-07-23T00:00:00Z"
+lastmod: "2022-05-22T00:00:00Z"
 featured: false
 draft: false
 
@@ -30,6 +30,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+**UPDATE (May 2022): I am no longer on the job market. I have accepted a position as an Embedded EthiCS Fellow at Stanford HAI and Center for Ethics in Society. See [my Stanford Profile](https://profiles.stanford.edu/benjixie) for more info.**
 
 I am seeking postdoctoral opportunities or research scientist opportunities that begin Jan - Sep 2022. I am currently a Ph.D. candidate at the University of Washington Information School advised by Prof. Amy J. Ko.
 
