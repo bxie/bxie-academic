@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  title = "Paper published to ICER 2022!"
+  url = "https://twitter.com/BenjiXie/status/1529120744873070592"
+  date = "2022-05-24"
+  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted to ICER 2022!"
+  url_text = "see tweet announcement"
+
+
 [[item]]
   title = "Paper published to CSCW 2022 / PACMHCI!"
   url = "/publication/cscw-2022"
@@ -37,12 +46,12 @@ date_format = "Jan 2006"
   description = "I presented my work on curriculum designers' interpretations of test bias data at the UW DUB seminar on HCI and design."
   url_text = "see recording"  
 
-[[item]]
-  title = "Awarded Husky 100"
-  url = "https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100"
-  date = "2021-05-24"
-  description = "Awarded to 100 students across UW’s three campuses who make the most of their time."
-  url_text = "see announcement"
+# [[item]]
+#   title = "Awarded Husky 100"
+#   url = "https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100"
+#   date = "2021-05-24"
+#   description = "Awarded to 100 students across UW’s three campuses who make the most of their time."
+#   url_text = "see announcement"
 
 # [[item]]
 #   title = "Paper published to Learning @ Scale 2021"
