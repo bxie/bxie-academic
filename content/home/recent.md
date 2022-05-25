@@ -19,11 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Paper published to ICER 2022!"
+  title = "Paper accepted to ICER 2022!"
   url = "https://twitter.com/BenjiXie/status/1529120744873070592"
   date = "2022-05-24"
   description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted to ICER 2022!"
   url_text = "see tweet announcement"
+
+[[item]]
+  title = "Presented at UW iSchool Research Symposium"
+  url = "https://ischool.uw.edu/events/2022/05/ischool-research-symposium-benjamin-xie-and-jean-salac"
+  date = "2022-05-02"
+  description = "Presented on 'Roles of Student Feedback for Equity in Large Computing Courses.'"
+  url_text = "talk info"
 
 
 [[item]]
@@ -39,12 +46,12 @@ date_format = "Jan 2006"
   date = "2021-11-29"
   description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
 
-[[item]]
-  title = "Presented at UW DUB Seminar"
-  url = "https://vimeo.com/587508265/1ac7ba79e0"
-  date = "2021-07-21"
-  description = "I presented my work on curriculum designers' interpretations of test bias data at the UW DUB seminar on HCI and design."
-  url_text = "see recording"  
+# [[item]]
+#   title = "Presented at UW DUB Seminar"
+#   url = "https://vimeo.com/587508265/1ac7ba79e0"
+#   date = "2021-07-21"
+#   description = "I presented my work on curriculum designers' interpretations of test bias data at the UW DUB seminar on HCI and design."
+#   url_text = "see recording"  
 
 # [[item]]
 #   title = "Awarded Husky 100"
