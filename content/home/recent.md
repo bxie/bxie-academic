@@ -19,11 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Paper accepted to ICER 2022!"
-  url = "https://twitter.com/BenjiXie/status/1529120744873070592"
-  date = "2022-05-24"
-  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted to ICER 2022!"
-  url_text = "see tweet announcement"
+  title = "Presented paper at ICER 2022!"
+  url = "/publication/icer-2022/"
+  date = "2022-08-08"
+  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted and presented at ICER 2022!"
 
 [[item]]
   title = "Presented at UW iSchool Research Symposium"

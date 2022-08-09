@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback"
+title: "A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use"
 authors: ["Alannah Oleson", "Benjamin Xie", "Jean Salac", "Jayne Everson", "F. Megumi Kivuva", "Amy J Ko"]
 date: 2022-08-09
 doi: "10.1145/3501385.3543967"
