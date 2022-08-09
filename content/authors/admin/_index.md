@@ -3,7 +3,7 @@
 name: Benjamin Xie
 
 # pronouns
-pronouns: he/they
+pronouns: he|they
 pronouns_url: "https://www.mypronouns.org/he-him"
 
 # Username (this should match the folder name)
@@ -18,7 +18,7 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington Information School
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +51,7 @@ social:
 - icon: envelope
   icon_pack: fas
   # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: mailto:bxie@uw.edu
+  link: mailto:benjixie@stanford.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BenjiXie
@@ -82,8 +82,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a postdoc at the University of Washington Information School, advised by Prof. [Amy J. Ko](https://faculty.washington.edu/ajko/) in the Code & Cognition Lab. My research interest is in designing interactive tools that support equity in computing education by contextualizing data about students with data from students.
+I am an Embedded EthiCS Postdoctoral Fellow at Stanford University's [Institute for Human-Centered AI](https://hai.stanford.edu/) and [Center for Ethics in Society](https://ethicsinsociety.stanford.edu/). My research interest is in designing interactions for critical discourse with and about data for equitable learning, community advocacy, and ethical AI use. I engage with computing education, human-computer interaction, and AI ethics research communities.
 
-During my PhD, I was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern at non-profit Code.org. I was an MIT EECS-Google Research and Innovation Scholar during my time as a student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
+I completed my PhD at the University of Washington Information School with Prof. Amy Ko, where I was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern at non-profit Code.org. Prior to my PhD, I was an MIT EECS-Google Research and Innovation Scholar as an undergraduate and Master's student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
 
 For more information, see [about me](/about), [projects](#projects), or [CV](/files/cv.pdf).
