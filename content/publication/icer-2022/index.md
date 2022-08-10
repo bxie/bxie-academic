@@ -49,7 +49,7 @@ url_poster:
 url_project:
 url_slides: https://github.com/codeandcognition/archive-2022icer-oleson-xie/blob/main/2022_icer_demographics_talk.pdf
 url_source:
-url_video:
+url_video: https://drive.google.com/file/d/1Gro18urqj-r8aZy1agupCwbxM45vcjdi/view?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
