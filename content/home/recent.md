@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   url_text = "see announcement"
 
 [[item]]
-  title = "Paper accepted to ICER 2022!"
+  title = "Presented paper at ICER 2022!"
   url = "/publication/icer-2022/"
-  date = "2022-05-24"
-  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted to ICER 2022!"
+  date = "2022-08-28"
+  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' presented at ICER 2022!"
   url_text = "see paper"
 
 [[item]]
