@@ -19,19 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Paper accepted to ICER 2022!"
-  url = "https://twitter.com/BenjiXie/status/1529120744873070592"
-  date = "2022-05-24"
-  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted to ICER 2022!"
-  url_text = "see tweet announcement"
+ title = "Started Postdoc at Stanford!"
+  url = "https://hai.stanford.edu/news/stanford-hai-names-seven-new-post-and-pre-doctoral-fellows"
+  date = "2022-09-01"
+  description = "Started as Embedded EthiCS Fellow at Stanford Inst. for Human-Centered Artificial Intelligence (HAI) & Center for Ethics in Society"
+  url_text = "see announcement"
 
 [[item]]
-  title = "Presented at UW iSchool Research Symposium"
-  url = "https://ischool.uw.edu/events/2022/05/ischool-research-symposium-benjamin-xie-and-jean-salac"
-  date = "2022-05-02"
-  description = "Presented on 'Roles of Student Feedback for Equity in Large Computing Courses.'"
-  url_text = "talk info"
-
+  title = "Paper accepted to ICER 2022!"
+  url = "/publication/icer-2022/"
+  date = "2022-05-24"
+  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' accepted to ICER 2022!"
+  url_text = "see paper"
 
 [[item]]
   title = "Paper published to CSCW 2022 / PACMHCI!"
@@ -45,6 +44,14 @@ date_format = "Jan 2006"
   url = "/publication/dissertation"
   date = "2021-11-29"
   description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
+  url_text = "see dissertation (summaries)"
+
+  # [[item]]
+  # title = "Presented at UW iSchool Research Symposium"
+  # url = "https://ischool.uw.edu/events/2022/05/ischool-research-symposium-benjamin-xie-and-jean-salac"
+  # date = "2022-05-02"
+  # description = "Presented on 'Roles of Student Feedback for Equity in Large Computing Courses.'"
+  # url_text = "talk info"
 
 # [[item]]
 #   title = "Presented at UW DUB Seminar"
