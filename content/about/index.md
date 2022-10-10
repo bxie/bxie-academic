@@ -28,6 +28,7 @@ Benjamin "Benji" Xie (pronounced ['she' + 'eh'](https://www.pronouncenames.com/p
 
 # High-Resolution Headshots
 {{< gallery >}}
+_Photos by Lotus Pod Designs, Oct 2022._
 
 # Research Timeline
 Updated Sep 2022. A few life events included to provide context. 
