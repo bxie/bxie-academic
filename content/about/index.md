@@ -13,7 +13,7 @@ comments: false  # Show comments?
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
+  placement: 1
   caption: ''
   focal_point: ""
   preview_only: false
@@ -24,9 +24,10 @@ header:
   caption: ""
   image: ""
 ---
+Benjamin "Benji" Xie (pronounced ['she' + 'eh'](https://www.pronouncenames.com/pronounce/xie)) is an Embedded EthiCS Postdoctoral Fellow at the Stanford University Institute for Human-Centered Artificial Intelligence and McCoy Family Center for Ethics in Society. He designs socio-technical interactions for critical discourse with and about data for equitable learning, community advocacy, and ethical AI use. He engages with computing education, human-computer interaction, and AI ethics research communities. He received his PhD in information science from the University of Washington, where he was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern with nonprofit Code.org. His doctoral research explored stakeholders’ interpretations of data for equitable computing education. He received his Master’s and undergraduate degrees in computer science from MIT, where he was an MIT EECS-Google Research and Innovation Scholar researching with MIT App Inventor.
 
-# Bio
-Benjamin "Benji" Xie (pronounced ['she' + 'eh'](https://www.pronouncenames.com/pronounce/xie)) is an Embedded EthiCS Postdoctoral Fellow at Stanford University's Institute for Human-Centered Artificial Intelligence and Center for Ethics in Society. He designs socio-technical interactions for critical discourse with and about data for equitable learning, community advocacy, and ethical AI use. He engages with computing education, human-computer interaction, and AI ethics research communities. He received his PhD in information science from the University of Washington, where he was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern with nonprofit Code.org. His doctoral research explored stakeholders’ interpretations of data for equitable computing education. He received his Master’s and undergraduate degrees in computer science from MIT, where he was an MIT EECS-Google Research and Innovation Scholar researching with MIT App Inventor.
+# High-Resolution Headshots
+{{< gallery >}}
 
 # Research Timeline
 Updated Sep 2022. A few life events included to provide context. 
@@ -50,12 +51,10 @@ Updated Sep 2022. A few life events included to provide context.
 - **2011-15**: As an undergraduate at MIT, I studied computer science with a humanities concentration in education. I researched with [Hal Abelson](https://www.csail.mit.edu/person/hal-abelson) and MIT [App Inventor](https://appinventor.mit.edu/) as an MIT EECS-Google Research and Innovation Scholar. I also conducted research with the MIT [Scheller Teacher Education Program](https://web.mit.edu/mitstep/projects.html) to help build [TaleBlazer](http://taleblazer.org/). I spent summers working as a software engineering intern at AppNexus in 2014 and eBay in 2013. I also volunteered with Boston-based non-profits as part of [MIT Code for Good](http://codeforgood.mit.edu/).
 
 # Running is my meditation
-{{< gallery >}}
-
 Besides being a student and researcher, I also ran competitively in college. Since the age of 10, running has been my way of keeping my body busy so my mind could focus.
 
 In my PhD, I ran marathons as part of [Club Northwest](https://www.clubnorthwest.org/benjamin-xie). I placed second at the 2020 Disney World Marathon and also completed two Boston Marathons (2018, 19). I was in Boston running for the MIT Track team when the 2013 Boston Marathon bombings and subsequent murder of MIT police office Sean Collier occurred, so completing the Boston Marathon was a momentous occassion for me.
 
 In my Master's, I was a [volunteer assistant coach](https://web.archive.org/web/20160328101546/http://mitathletics.com/sports/m-xc/coaches/index) for MIT cross country in the fall. I competed as part of the [MIT track team](https://web.archive.org/web/20210726174602/https://mit.prestosports.com/sports/m-track/2015-16/bios/xie_benji_2sje) in the spring.
 
-In my undergraduate years, I competed in NCAA Division III with the MIT Cross Country, Indoor & Outdoor Track Teams. I served as a cross country captain for the later two years, during which the MIT Cross Country team won conference, placed top 3 in regionals, and qualified for national championships both years. My individual accolades included breaking a school record (indoor 5,000m: 14:30.08) as well as earning Academic All-Region, All-Region, Academic All-Conference, All-Conference, and Most Improved. 
+In my undergraduate years, I competed in NCAA Division III with the MIT Cross Country, Indoor & Outdoor Track Teams. I served as a cross country captain for the later two years, during which the MIT Cross Country team won conference, placed top 3 in regionals, and qualified for national championships both years. My individual accolades included breaking a school record and earning Academic All-Region, All-Region, Academic All-Conference, All-Conference, and Most Improved. 
