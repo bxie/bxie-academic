@@ -9,7 +9,7 @@ tags:
 categories:
 - postdoc search
 date: "2021-07-20T00:00:00Z"
-lastmod: "2021-09-17T00:00:00Z"
+lastmod: "2022-11-03T00:00:00Z"
 featured: false
 draft: false
 
@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: 'benjixie.com/csedjobs is a list of job calls related to computing edu, STEM edu, and HCI & edu research. [See job calls.](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)'
+  caption: 'benjixie.com/csedjobs is a list of job calls related to computing edu, STEM edu, and HCI & edu research. [See job calls.](https://docs.google.com/spreadsheets/d/12c65-h725DY9kjy9w5KBV23FH8dG2UAgAM1btdBbzRw/edit?usp=sharing)'
   focal_point: ""
   preview_only: false
 
@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-In preparation for [going on the job market](/post/postdoc-search/), I'm compiling computing & STEM education and HCI job calls for academic, industry, and non-profit jobs:
+I've been compiling computing & STEM education and HCI job calls for academic, industry, and non-profit jobs:
 
 **[:scroll: GSheet: Job Calls for Research in CS & STEM Edu, HCI (2021-)](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing)**
 
@@ -41,4 +41,4 @@ Pass this on to anyone who may be looking to hire for or get hired with this sho
 
 My goal is to share all job calls I discover to ensure all PhD students researching computing education, STEM education, and HCI & education are aware and familiar with job calls that are relevant to them. One (of many) factors that make job searches an exclusionary experience is that only a select few are aware of job calls that are applicable for a broader audience. So I want to help broadcast job calls to people who may be a few hops further on the social network. Down with the [Hidden Curriculum](https://www.science.org/careers/2019/05/i-felt-lost-new-academic-culture-then-i-learned-about-hidden-curriculum)!
 
-Let me know if you would like to add a job call to the spreadsheet or update an existing one! And see the [FAQ](https://docs.google.com/spreadsheets/d/1yfnvWROJM2Ch5fypRRr1jTINm945SQ5mEu-biDVuZtg/edit?usp=sharing) to learn more.
+Let me know if you would like to add a job call to the spreadsheet or update an existing one! And see the [FAQ](https://docs.google.com/spreadsheets/d/12c65-h725DY9kjy9w5KBV23FH8dG2UAgAM1btdBbzRw/edit#gid=1698698701) to learn more.

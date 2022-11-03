@@ -11,7 +11,7 @@ categories:
 date: "2021-07-23T00:00:00Z"
 lastmod: "2022-05-22T00:00:00Z"
 featured: false
-draft: false
+draft: true # making it hidden
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
