@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+ title = "Presenting at Pitt SCI"
+  url = "https://www.sci.pitt.edu/equity/events"
+  date = "2022-11-01"
+  description = "Presenting at University of Pittsburgh School of Computing and Information's Technology for Social Change series on Nov 11."
+  url_text = "talk info"
+
+[[item]]
  title = "Started Postdoc at Stanford!"
   url = "https://hai.stanford.edu/news/stanford-hai-names-seven-new-post-and-pre-doctoral-fellows"
   date = "2022-09-01"
@@ -39,12 +46,12 @@ date_format = "Jan 2006"
   description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
   url_text = "see paper"
 
-[[item]]
-  title = "Defended my dissertation! 🎓"
-  url = "/publication/dissertation"
-  date = "2021-11-29"
-  description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
-  url_text = "see dissertation (summaries)"
+# [[item]]
+#   title = "Defended my dissertation! 🎓"
+#   url = "/publication/dissertation"
+#   date = "2021-11-29"
+#   description = "I successfully defended my dissertation on 'Stakeholders' Interpretations of Data for Equitable Computing Education.'"
+#   url_text = "see dissertation (summaries)"
 
   # [[item]]
   # title = "Presented at UW iSchool Research Symposium"
