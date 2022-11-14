@@ -19,32 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
- title = "Presenting at Pitt SCI"
-  url = "https://www.sci.pitt.edu/equity/events"
+  title = "CSCW 2022 paper wins Diversity & Inclusion award!🏅"
+  url = "/publication/cscw-2022"
+  date = "2022-11-08"
+  description = "My CSCW 2022 paper earned 'Recognition for Contribution to Diversity and Inclusion' for representing a strong example of work that focuses on or serves minorities, otherwise excluded individuals or populations."
+  url_text = "see paper"
+
+[[item]]
+ title = "Invited Talk at Pitt SCI"
+  url = "https://www.sci.pitt.edu/equity/events#benjaminxie"
   date = "2022-11-01"
   description = "Presenting at University of Pittsburgh School of Computing and Information's Technology for Social Change series on Nov 11."
   url_text = "talk info"
 
 [[item]]
- title = "Started Postdoc at Stanford!"
+ title = "Started Postdoc at Stanford"
   url = "https://hai.stanford.edu/news/stanford-hai-names-seven-new-post-and-pre-doctoral-fellows"
   date = "2022-09-01"
   description = "Started as Embedded EthiCS Fellow at Stanford Inst. for Human-Centered Artificial Intelligence (HAI) & Center for Ethics in Society"
   url_text = "see announcement"
 
 [[item]]
-  title = "Presented paper at ICER 2022!"
+  title = "Presented paper at ICER 2022"
   url = "/publication/icer-2022/"
   date = "2022-08-28"
   description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' presented at ICER 2022!"
   url_text = "see paper"
 
-[[item]]
-  title = "Paper published to CSCW 2022 / PACMHCI!"
-  url = "/publication/cscw-2022"
-  date = "2022-02-13"
-  description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
-  url_text = "see paper"
+# [[item]]
+#   title = "Paper published to CSCW 2022 / PACMHCI!"
+#   url = "/publication/cscw-2022"
+#   date = "2022-02-13"
+#   description = "Journal article titled 'Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback' published to PACMHCI and will be presented at CSCW 2022!"
+#   url_text = "see paper"
 
 # [[item]]
 #   title = "Defended my dissertation! 🎓"

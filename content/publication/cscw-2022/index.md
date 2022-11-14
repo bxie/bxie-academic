@@ -71,3 +71,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+🏅 Awarded [_Recognition for Contribution to Diversity and Inclusion_](https://cscw.acm.org/2022/awards/) at the 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 2022).
