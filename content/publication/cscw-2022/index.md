@@ -4,7 +4,7 @@
 title: "Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback"
 authors: ["Benjamin Xie", "Alannah Oleson", "Jayne Everson", "Amy J Ko"]
 date: 2022-04-01
-doi: "10.1145/3430895.3460141"
+doi: "10.1145/3512912"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-09T13:49:23-08:00
