@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Discussing Environmental Justice and Computing Education at SIGCSE '23"
+  url = "/publication/sigcse-2023"
+  date = "2023-01-04"
+  description = "I am co-organizing a hybrid Birds of a Feather discussion about 'Centering Environmental Justice in Computing Education' at SIGCSE '23."
+  url_text = "more info"
+
+
+[[item]]
   title = "CSCW 2022 paper wins Diversity & Inclusion award!🏅"
   url = "/publication/cscw-2022"
   date = "2022-11-08"
@@ -39,12 +47,12 @@ date_format = "Jan 2006"
   description = "Started as Embedded EthiCS Fellow at Stanford Inst. for Human-Centered Artificial Intelligence (HAI) & Center for Ethics in Society"
   url_text = "see announcement"
 
-[[item]]
-  title = "Presented paper at ICER 2022"
-  url = "/publication/icer-2022/"
-  date = "2022-08-28"
-  description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' presented at ICER 2022!"
-  url_text = "see paper"
+# [[item]]
+#   title = "Presented paper at ICER 2022"
+#   url = "/publication/icer-2022/"
+#   date = "2022-08-28"
+#   description = "Paper on 'A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use' presented at ICER 2022!"
+#   url_text = "see paper"
 
 # [[item]]
 #   title = "Paper published to CSCW 2022 / PACMHCI!"
