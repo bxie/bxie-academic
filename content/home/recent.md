@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Discussing Environmental Justice and Computing Education at SIGCSE '23"
+  title = "Discussing Environmental Justice + CSEd at SIGCSE '23"
   url = "/publication/sigcse-2023"
   date = "2023-01-04"
   description = "I am co-organizing a hybrid Birds of a Feather discussion about 'Centering Environmental Justice in Computing Education' at SIGCSE '23."

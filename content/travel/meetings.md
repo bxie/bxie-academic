@@ -6,9 +6,9 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Travel"
-subtitle = """where I've been & where I'm going
+subtitle = """Where I've been & where I'm going
 
-_updated: July 2021_"""
+_updated: Jan 2023_"""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,9 +19,72 @@ date_format = "Jan 2006"
 #   Required fields are `title` and `date_start`.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# 2023
+[[experience]]
+  title = "SIGCSE 2023: Technical Symposium on Computer Science Education"
+  location = "Stanford, CA"
+  url = "https://sigcse2023.sigcse.org/details/sigcse-ts-2023-birds-of-a-feather/20/Centering-Environmental-Justice-in-Computing-Education"
+  date_start = "2023-03-15"
+  description = """Organizing [BoF discussion](/publication/sigcse-2023/) to center environmental justice in computing education"""
+
+[[experience]]
+  title = "Embedded EthiCS Conference"
+  location = "Stanford, CA"
+  url = "https://hai.stanford.edu/embedded-ethics-registration"
+  date_start = "2023-03-07"
+  description = """Organizing conference on strategies for teaching responsible computing within the computer science curriculum"""
+
+# 2022
+[[experience]]
+  title = "HAI Fall Conference on AI in the Loop: Humans in Charge"
+  location = "Stanford, CA"
+  url = "https://hai.stanford.edu/events/2022-hai-fall-conference-ai-loop-humans-charge"
+  date_start = "2022-11-15"
+  description = """Volunteered"""
+
+[[experience]]
+  title = "Invited Talk at Pitt SCI"
+  location = "Stanford, CA"
+  url = "https://calendar.pitt.edu/event/pnc_technology_for_social_change_series_designing_for_equitable_ethical_and_community-centric_computing_education#.Y3z4tnbMKUk"
+  date_start = "2022-11-11"
+  description = """Gave talk on _Designing for Equitable, Ethical, and Community-Centric Computing Education_ at University of Pittsburgh's School of Computing and Information"""
+
+
+[[experience]]
+  title = "CSCW 2022: ACM Conference On Computer-Supported Cooperative Work And Social Computing"
+  location = "Virtual Event"
+  url = "https://cscw.acm.org/2022/awards/"
+  date_start = "2022-11-08"
+  description = """Presented [paper](/publication/cscw-2022) on contextualizing student feedback to surface equity issues. Awarded _Recognition for contribution to Diversity and Inclusion_."""
+
+[[experience]]
+  title = "Algorithms and Workplace Justice Workshop"
+  location = "Stanford, CA"
+  date_start = "2022-10-17"
+
+[[experience]]
+  title = "ICER 2022: ACM International Computing Education Research Conference"
+  location = "Lugano, Switzerland"
+  url = "https://icer2022.acm.org/details/icer-2022-papers/11/A-Decade-of-Demographics-in-Computing-Education-Research-A-Critical-Review-of-Trends"
+  date_start = "2022-08-07"
+  description = """Presented [paper](/publication/icer-2022) on critical review of demographic use in computing education research."""
+
+[[experience]]
+  title = "Dagstuhl Seminar 22231: _Theories of Programming_"
+  location = "Wadern, Germany"
+  url = "https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/22231"
+  date_start = "2022-06-06"
+  description = """Attended my first Dagstuhl Seminar and devised a _Theory of Narrative Programming_."""
+
+[[experience]]
+  title = "SIGCSE 2022: Technical Symposium on Computer Science Education"
+  location = "Virtual Event"
+  url = "https://sigcse2022.sigcse.org/"
+  date_start = "2022-03-02"
+
 # 2021
 [[experience]]
-  title = "ICER: ACM International Computing Education Research Conference"
+  title = "ICER 2021: ACM International Computing Education Research Conference"
   location = "Virtual Event"
   url = "https://icer2021.acm.org/"
   date_start = "2021-08-16"
