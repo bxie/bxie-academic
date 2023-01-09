@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 # 2023
 [[experience]]
   title = "SIGCSE 2023: Technical Symposium on Computer Science Education"
-  location = "Stanford, CA"
+  location = "Toronto, Canada"
   url = "https://sigcse2023.sigcse.org/details/sigcse-ts-2023-birds-of-a-feather/20/Centering-Environmental-Justice-in-Computing-Education"
   date_start = "2023-03-15"
   description = """Organizing [BoF discussion](/publication/sigcse-2023/) to center environmental justice in computing education"""
