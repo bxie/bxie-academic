@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Dagstuhl Seminar report on 'Theories of Programming' Published"
+  url = "/publication/dagstuhl-2023"
+  date = "2023-01-19"
+  description = "Summary of research seminar to sketch new theories of programming and consider the role of theories in programming."
+  url_text = "see report"
+
+[[item]]
   title = "Discussing Environmental Justice + CSEd at SIGCSE '23"
   url = "/publication/sigcse-2023"
   date = "2023-01-04"
@@ -37,15 +44,15 @@ date_format = "Jan 2006"
  title = "Invited Talk at Pitt SCI"
   url = "https://www.sci.pitt.edu/equity/events#benjaminxie"
   date = "2022-11-01"
-  description = "Presenting at University of Pittsburgh School of Computing and Information's Technology for Social Change series on Nov 11."
+  description = "Presented at University of Pittsburgh School of Computing and Information's Technology for Social Change series on Nov 11."
   url_text = "talk info"
 
-[[item]]
- title = "Started Postdoc at Stanford"
-  url = "https://hai.stanford.edu/news/stanford-hai-names-seven-new-post-and-pre-doctoral-fellows"
-  date = "2022-09-01"
-  description = "Started as Embedded EthiCS Fellow at Stanford Inst. for Human-Centered Artificial Intelligence (HAI) & Center for Ethics in Society"
-  url_text = "see announcement"
+# [[item]]
+#  title = "Started Postdoc at Stanford"
+#   url = "https://hai.stanford.edu/news/stanford-hai-names-seven-new-post-and-pre-doctoral-fellows"
+#   date = "2022-09-01"
+#   description = "Started as Embedded EthiCS Fellow at Stanford Inst. for Human-Centered Artificial Intelligence (HAI) & Center for Ethics in Society"
+#   url_text = "see announcement"
 
 # [[item]]
 #   title = "Presented paper at ICER 2022"
