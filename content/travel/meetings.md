@@ -8,7 +8,7 @@ weight = 70  # Order that this section will appear.
 title = "Travel"
 subtitle = """Where I've been & where I'm going
 
-_updated: Jan 2023_"""
+_updated: May 2023_"""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # 2023
+# [[experience]]
+#   title = "ICER 2023: ACM International Computing Education Research Conference"
+#   date_start = "2023-08-21"
+#   description = """Presenting paper on Code Replays..."""
+
+[[experience]]
+  title = "NYU & Spencer Foundation Conference on Learning Analytics for Educational Equity"
+  date_start = "2023-05-21"
+  description = """Invited to conference on _Innovating a New Generation of Learning Analytics for Educational Equity_."""
+
 [[experience]]
   title = "SIGCSE 2023: Technical Symposium on Computer Science Education"
   location = "Toronto, Canada"
@@ -44,7 +54,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Invited Talk at Pitt SCI"
-  location = "Stanford, CA"
+  location = "Pittsburgh, PA"
   url = "https://calendar.pitt.edu/event/pnc_technology_for_social_change_series_designing_for_equitable_ethical_and_community-centric_computing_education#.Y3z4tnbMKUk"
   date_start = "2022-11-11"
   description = """Gave talk on _Designing for Equitable, Ethical, and Community-Centric Computing Education_ at University of Pittsburgh's School of Computing and Information"""

@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+[[item]]
+  title = "Presented at Stanford EdTech Ethics Workshop"
+  url = "https://docs.google.com/presentation/d/1S5ytoxpqFL8K8TCJBCs5T08SA3kPwY0ilZNAWX8BO8U/edit?usp=sharing"
+  date = "2023-05-16"
+  description = "Described Stanford's Embedded EthiCS program and presented teaching demonstration on embedding ethics in an introductory algorithms class."
+  url_text = "see slides"
+
+[[item]]
+  title = "Awarded Grant from Stanford Accelerator for Learning and Human-Centered AI Institute."
+  url = "https://acceleratelearning.stanford.edu/story/generative-ai-seed-grants/"
+  date = "2023-04-20"
+  description = "Funding will go towards understanding the role of critical reflection when novice programmers learn to code with Generative AI."
+  url_text = "see announcement"
+
 [[item]]
   title = "Dagstuhl Seminar report on 'Theories of Programming' Published"
   url = "/publication/dagstuhl-2023"
@@ -25,27 +41,26 @@ date_format = "Jan 2006"
   description = "Summary of research seminar to sketch new theories of programming and consider the role of theories in programming."
   url_text = "see report"
 
-[[item]]
-  title = "Discussing Environmental Justice + CSEd at SIGCSE '23"
-  url = "/publication/sigcse-2023"
-  date = "2023-01-04"
-  description = "I am co-organizing a hybrid Birds of a Feather discussion about 'Centering Environmental Justice in Computing Education' at SIGCSE '23."
-  url_text = "more info"
+# [[item]]
+#   title = "Discussing Environmental Justice + CSEd at SIGCSE '23"
+#   url = "/publication/sigcse-2023"
+#  date = "2023-01-04"
+#   description = "I am co-organizing a hybrid Birds of a Feather discussion about 'Centering Environmental Justice in Computing Education' at SIGCSE '23."
+#  url_text = "more info"
 
+# [[item]]
+#  title = "CSCW 2022 paper wins Diversity & Inclusion award!🏅"
+#  url = "/publication/cscw-2022"
+#  date = "2022-11-08"
+#  description = "My CSCW 2022 paper earned 'Recognition for Contribution to Diversity and Inclusion' for representing a strong example of work that focuses on or serves minorities, otherwise excluded individuals or populations."
+#  url_text = "see paper"
 
-[[item]]
-  title = "CSCW 2022 paper wins Diversity & Inclusion award!🏅"
-  url = "/publication/cscw-2022"
-  date = "2022-11-08"
-  description = "My CSCW 2022 paper earned 'Recognition for Contribution to Diversity and Inclusion' for representing a strong example of work that focuses on or serves minorities, otherwise excluded individuals or populations."
-  url_text = "see paper"
-
-[[item]]
- title = "Invited Talk at Pitt SCI"
-  url = "https://www.sci.pitt.edu/equity/events#benjaminxie"
-  date = "2022-11-01"
-  description = "Presented at University of Pittsburgh School of Computing and Information's Technology for Social Change series on Nov 11."
-  url_text = "talk info"
+# [[item]]
+#  title = "Invited Talk at Pitt SCI"
+#   url = "https://www.sci.pitt.edu/equity/events#benjaminxie"
+#   date = "2022-11-01"
+#   description = "Presented at University of Pittsburgh School of Computing and Information's Technology for Social Change series on Nov 11."
+#   url_text = "talk info"
 
 # [[item]]
 #  title = "Started Postdoc at Stanford"
