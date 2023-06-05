@@ -18,7 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# [[item]]
+#   title = "Awarded grant from Stanford Woods Institute"
+#   url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects"
+#   date = "2023-06-15"
+#   description = "Proposal on _Addressing Environmental Data Inequities by Empowering Youth in Frontline Communities_ awarded $249k by Stanford Woods Institute for the Environment."
+#   url_text = "about grant"
 
+[[item]]
+  title = "Paper accepted to ICER 2023"
+  url = "/publication/icer-2023/"
+  date = "2023-06-01"
+  description = "Research on using replays of coding process to improve novice programmers' metacognition skills accepted to ICER 2023."
+  url_text = "see paper"
 
 [[item]]
   title = "Presented at Stanford EdTech Ethics Workshop"
@@ -34,12 +46,12 @@ date_format = "Jan 2006"
   description = "Funding will go towards understanding the role of critical reflection when novice programmers learn to code with Generative AI."
   url_text = "see announcement"
 
-[[item]]
-  title = "Dagstuhl Seminar report on 'Theories of Programming' Published"
-  url = "/publication/dagstuhl-2023"
-  date = "2023-01-19"
-  description = "Summary of research seminar to sketch new theories of programming and consider the role of theories in programming."
-  url_text = "see report"
+# [[item]]
+#   title = "Dagstuhl Seminar report on 'Theories of Programming' Published"
+#   url = "/publication/dagstuhl-2023"
+#   date = "2023-01-19"
+#   description = "Summary of research seminar to sketch new theories of programming and consider the role of theories in programming."
+#   url_text = "see report"
 
 # [[item]]
 #   title = "Discussing Environmental Justice + CSEd at SIGCSE '23"
