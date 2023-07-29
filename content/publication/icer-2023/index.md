@@ -24,7 +24,7 @@ abstract: "Learning programming benefits from self-regulation, but novices lack 
 # Summary. An optional shortened abstract.
 summary: "Designed tool that enabled replays of code writing process and found that its use improved novice programmers' self-regulation behaviors when writing code."
 
-tags: []
+tags: [computing education, self-regulation]
 categories: []
 featured: false
 
@@ -50,7 +50,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://vimeo.com/user31403387/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
