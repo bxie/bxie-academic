@@ -50,7 +50,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://vimeo.com/user31403387/
+url_video: https://vimeo.com/699278789
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
