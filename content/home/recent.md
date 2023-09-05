@@ -18,15 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[item]]
-#   title = "Awarded grant from Stanford Woods Institute"
-#   url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects"
-#   date = "2023-06-15"
-#   description = "Proposal on _Addressing Environmental Data Inequities by Empowering Youth in Frontline Communities_ awarded $249k by Stanford Woods Institute for the Environment."
-#   url_text = "about grant"
+[[item]]
+  title = "Awarded grant from Stanford Woods Institute"
+  url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects"
+  date = "2023-06-15"
+  description = "Proposal on _Addressing Environmental Data Inequities by Empowering Youth in Frontline Communities_ awarded $249k by Stanford Woods Institute for the Environment."
+  url_text = "about grant"
+
 
 [[item]]
-  title = "Paper accepted to ICER 2023"
+  title = "Paper Accepted to ICER 2023"
   url = "/publication/icer-2023/"
   date = "2023-06-01"
   description = "Research on using replays of coding process to improve novice programmers' metacognition skills accepted to ICER 2023."

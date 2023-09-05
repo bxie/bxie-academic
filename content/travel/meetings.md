@@ -8,7 +8,7 @@ weight = 70  # Order that this section will appear.
 title = "Travel"
 subtitle = """Where I've been & where I'm going
 
-_updated: May 2023_"""
+_updated: Aug 2023_"""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -26,7 +26,21 @@ date_format = "Jan 2006"
 #   description = """Presenting paper on Code Replays..."""
 
 [[experience]]
+  title = "Digital Promise Design Convening on Learning Technologies"
+  date_start = "2023-09-28"
+  location = "Lakewood, Colorado"
+  description = "Attended convening of researchers, developers, and practitioners to inform design of learning technologies ecosystem"
+
+[[experience]]
+  title = "ICER 2023: ACM International Computing Education Research Conference"
+  date_start = "2023-08-08"
+  location = "Chicago, IL"
+  description = """Presented [paper](/publication/icer-2023) on using keystroke logs to improve programming self-regulation."""
+  url="https://icer2023.acm.org/details/icer-2023-papers/22/Developing-Novice-Programmers-Self-Regulation-Skills-with-Code-Replays"
+
+[[experience]]
   title = "NYU & Spencer Foundation Conference on Learning Analytics for Educational Equity"
+  location = "Basking Ridge, NJ"
   date_start = "2023-05-21"
   description = """Invited to conference on _Innovating a New Generation of Learning Analytics for Educational Equity_."""
 
