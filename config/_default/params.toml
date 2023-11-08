@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Benjamin Xie (Benji Xie), Ph.D. candidate at the University of Washington. Designing human-AI tools for equity in computer science education."
+description = "Personal website of Benjamin Xie (Benji Xie), Embedded Ethics Fellow at the Stanford University Institute for Human-Centered Artificial Intelligence (HAI) and McCoy Family Center for Ethics in Society."
 
 ############################
 ## Site Features
