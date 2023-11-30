@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "It Is Time for More Critical CS Education"
-authors: ["Amy J. Ko", "Alannah Oleson", "Neil Ryan", "Yim Register", "Benjamin Xie", "Mina Tari", "Matthew Davidson", "Stefania Druga", "Dastyni Loksa"]
+authors: ["Amy J. Ko", "Alannah Oleson", "Mara Kirdani-Ryan", "Yim Register", "Benjamin Xie", "Mina Tari", "Matthew Davidson", "Stefania Druga", "Dastyni Loksa"]
 date: 2020-11-01
 doi: "10.1145/3424000"
 
