@@ -19,8 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Paper on computing ethics instruction accepted to TOCE"
+  url = "https://dl.acm.org/doi/10.1145/3634685"
+  date = "2023-11-28"
+  description = "Review of 40 years of research on ethics instruction in higher education computing courses accepted to the Transactions on Computing Education (TOCE) Journal!"
+  url_text = "see paper"
+
+[[item]]
   title = "Awarded grant from Stanford Woods Institute"
-  url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects"
+  url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects/empowering-youth-frontline-communities-through-climate-data"
   date = "2023-06-15"
   description = "Proposal on _Addressing Environmental Data Inequities by Empowering Youth in Frontline Communities_ awarded $249k by Stanford Woods Institute for the Environment."
   url_text = "about grant"
@@ -37,15 +44,15 @@ date_format = "Jan 2006"
   title = "Presented at Stanford EdTech Ethics Workshop"
   url = "https://docs.google.com/presentation/d/1S5ytoxpqFL8K8TCJBCs5T08SA3kPwY0ilZNAWX8BO8U/edit?usp=sharing"
   date = "2023-05-16"
-  description = "Described Stanford's Embedded EthiCS program and presented teaching demonstration on embedding ethics in an introductory algorithms class."
+  description = "Described Stanford's Embedded Ethics program and presented teaching demonstration on embedding ethics in an introductory algorithms class."
   url_text = "see slides"
 
-[[item]]
-  title = "Awarded Grant from Stanford Accelerator for Learning and Human-Centered AI Institute."
-  url = "https://acceleratelearning.stanford.edu/story/generative-ai-seed-grants/"
-  date = "2023-04-20"
-  description = "Funding will go towards understanding the role of critical reflection when novice programmers learn to code with Generative AI."
-  url_text = "see announcement"
+# [[item]]
+#   title = "Awarded Grant from Stanford Accelerator for Learning and Human-Centered AI Institute."
+#   url = "https://acceleratelearning.stanford.edu/story/generative-ai-seed-grants/"
+#   date = "2023-04-20"
+#   description = "Funding will go towards understanding the role of critical reflection when novice programmers learn to code with Generative AI."
+#   url_text = "see announcement"
 
 # [[item]]
 #   title = "Dagstuhl Seminar report on 'Theories of Programming' Published"
