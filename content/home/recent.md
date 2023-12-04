@@ -19,8 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Presenting at UCSD CSE"
+  date = "2023-12-03"
+  description = "Presenting on my research and teaching on designing equitable and ethical computing education at UC San Diego's Computer Science & Engineering Department."
+
+[[item]]
   title = "Paper on computing ethics instruction accepted to TOCE"
-  url = "https://dl.acm.org/doi/10.1145/3634685"
+  url = "/publication/toce-2023/"
   date = "2023-11-28"
   description = "Review of 40 years of research on ethics instruction in higher education computing courses accepted to the Transactions on Computing Education (TOCE) Journal!"
   url_text = "see paper"
@@ -34,18 +39,18 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  title = "Paper Accepted to ICER 2023"
+  title = "Paper accepted to ICER 2023"
   url = "/publication/icer-2023/"
   date = "2023-06-01"
   description = "Research on using replays of coding process to improve novice programmers' metacognition skills accepted to ICER 2023."
   url_text = "see paper"
 
-[[item]]
-  title = "Presented at Stanford EdTech Ethics Workshop"
-  url = "https://docs.google.com/presentation/d/1S5ytoxpqFL8K8TCJBCs5T08SA3kPwY0ilZNAWX8BO8U/edit?usp=sharing"
-  date = "2023-05-16"
-  description = "Described Stanford's Embedded Ethics program and presented teaching demonstration on embedding ethics in an introductory algorithms class."
-  url_text = "see slides"
+# [[item]]
+#   title = "Presented at Stanford EdTech Ethics Workshop"
+#   url = "https://docs.google.com/presentation/d/1S5ytoxpqFL8K8TCJBCs5T08SA3kPwY0ilZNAWX8BO8U/edit?usp=sharing"
+#   date = "2023-05-16"
+#   description = "Described Stanford's Embedded Ethics program and presented teaching demonstration on embedding ethics in an introductory algorithms class."
+#   url_text = "see slides"
 
 # [[item]]
 #   title = "Awarded Grant from Stanford Accelerator for Learning and Human-Centered AI Institute."
