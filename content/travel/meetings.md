@@ -8,7 +8,7 @@ weight = 70  # Order that this section will appear.
 title = "Travel"
 subtitle = """Where I've been & where I'm going
 
-_updated: Aug 2023_"""
+_updated: Dec 2023_"""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,11 +19,18 @@ date_format = "Jan 2006"
 #   Required fields are `title` and `date_start`.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# 2023
 # [[experience]]
-#   title = "ICER 2023: ACM International Computing Education Research Conference"
-#   date_start = "2023-08-21"
-#   description = """Presenting paper on Code Replays..."""
+#   title = "AAAI EAAI"
+#   date_start = "2024-02-24"
+#   location = "Vancouver, BC"
+#   description = "Presented on research co-designing AI curriculum modules and tool with cross-disciplinary high school teachers"
+
+# 2023
+[[experience]]
+  title = "UC San Diego CSE"
+  date_start = "2023-12-03"
+  location = "San Diego, California"
+  description = "Visited UCSD's Computer Science & Engineering department and presented on 'Designing Equitable and Ethical Computing Education at Scale'"
 
 [[experience]]
   title = "Digital Promise Design Convening on Learning Technologies"
@@ -52,7 +59,7 @@ date_format = "Jan 2006"
   description = """Organizing [BoF discussion](/publication/sigcse-2023/) to center environmental justice in computing education"""
 
 [[experience]]
-  title = "Embedded EthiCS Conference"
+  title = "Embedded Ethics Conference"
   location = "Stanford, CA"
   url = "https://hai.stanford.edu/embedded-ethics-registration"
   date_start = "2023-03-07"

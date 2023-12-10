@@ -19,9 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Presenting at UCSD CSE"
+  title = "Two papers accepted to AAAI EAAI 2024"
+  url = "https://eaai-conf.github.io/year/eaai-24.html"
+  date = "2023-12-10"
+  description = "Two papers on Generative AI curriculum and tool co-design with high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
+  url_text="about conference"
+
+[[item]]
+  title = "Presented at UCSD CSE"
   date = "2023-12-03"
-  description = "Presenting on my research and teaching on designing equitable and ethical computing education at UC San Diego's Computer Science & Engineering Department."
+  description = "Presented on my research and teaching on designing equitable and ethical computing education at UC San Diego's Computer Science & Engineering Department."
 
 [[item]]
   title = "Paper on computing ethics instruction accepted to TOCE"
@@ -38,12 +45,12 @@ date_format = "Jan 2006"
   url_text = "about grant"
 
 
-[[item]]
-  title = "Paper accepted to ICER 2023"
-  url = "/publication/icer-2023/"
-  date = "2023-06-01"
-  description = "Research on using replays of coding process to improve novice programmers' metacognition skills accepted to ICER 2023."
-  url_text = "see paper"
+# [[item]]
+#   title = "Paper accepted to ICER 2023"
+#   url = "/publication/icer-2023/"
+#   date = "2023-06-01"
+#   description = "Research on using replays of coding process to improve novice programmers' metacognition skills accepted to ICER 2023."
+#   url_text = "see paper"
 
 # [[item]]
 #   title = "Presented at Stanford EdTech Ethics Workshop"
@@ -171,7 +178,7 @@ date_format = "Jan 2006"
 #   description = "My lab wrote a position paper calling for more critical perspectives in CS education."
 #   url_text = "see article"
 
-#[[item]]
+# [[item]]
 #  title = "Article published in ACM Interactions (IX) magazine"
 #  url = "https://interactions.acm.org/blog/view/learning-and-education-in-hci-a-reflection-on-the-sig-at-chi-2019"
 #  date = "2020-08-04"
@@ -194,3 +201,4 @@ date_format = "Jan 2006"
 #   url_text = ""
 
 +++
+ 
