@@ -71,3 +71,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Code.org is a non-profit organization that engages a global community of computer science teachers and learners. Core to this mission is ensuring that its learning materials are inclusive to the diverse subpopulations that rely on them to teach and learn computing. And while careful design of learning materials is important in ensuring equitable outcomes, instructional designers must constantly iterate and improve upon these materials. To inform this iteration process, I conducted a psychometric analysis of learner response data to identify, validate, and address equity issues within the CS Discoveries curriculum.
+
+To understand how equitable learning outcomes are and improve them, I used methods from the fields of psychometrics, learning sciences, and human-computer interaction. This process involved research-practice partnerships in which we consider how end-users (e.g. curriculum designers) interpreted and used assessment scores, analyzed data from learner responses to identify potentially problematic patterns, and considered equitable change.
