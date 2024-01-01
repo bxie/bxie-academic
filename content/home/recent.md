@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
   url = "/publication/eaai-2023b/"
   date = "2023-12-10"
-  description = "Master's students' paper a tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
+  description = "Master's students' paper on tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
   url_text="see paper"  
 
 [[item]]
