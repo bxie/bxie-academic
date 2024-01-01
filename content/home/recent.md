@@ -19,11 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Two papers accepted to AAAI EAAI 2024"
-  url = "https://eaai-conf.github.io/year/eaai-24.html"
+  title = "Students' paper on GenAI curriculum co-design accepted to AAAI EAAI 2024"
+  url = "/publication/eaai-2023b/"
   date = "2023-12-10"
-  description = "Two papers on Generative AI curriculum and tool co-design with high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
-  url_text="about conference"
+  description = "Master's students' paper a tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
+  url_text="see paper"  
+
+[[item]]
+  title = "Paper on GenAI curriculum co-design accepted to AAAI EAAI 2024"
+  url = "/publication/eaai-2023/"
+  date = "2023-12-10"
+  description = "Paper on co-designing Generative AI curriculum with cross-disciplinary high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
+  url_text="see paper"  
 
 [[item]]
   title = "Presented at UCSD CSE"
