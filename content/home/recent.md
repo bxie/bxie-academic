@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Students' paper on GenAI curriculum co-design accepted to AAAI EAAI 2024"
+  title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
   url = "/publication/eaai-2023b/"
   date = "2023-12-10"
   description = "Master's students' paper a tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
