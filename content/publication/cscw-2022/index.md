@@ -71,5 +71,12 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Students face challenges that are often invisible to their instructors or even themselves! This project investigates how to use student feedback to identify challenges faced by the most underserved learners in computing courses. We are designing and developing ways to interact and use data-driven tools to address rather than exacerbate equity issues in the complex domain of computing education. 
+
+By developing tools that enable students to effortlessly and privately share their course experiences and empower both students and instructors to interpret contextualized data to understand experiences of under-served learners, we can help make computing courses more equitable learning environments.
+
+Try StudentAmp out at [StudentAmp.com](https://studentamp.com/).
+
+This project is in collaboration with the [UW College of Education](https://education.uw.edu/) and [UW Office for the Advancement of Engineering Teaching & Learning](https://www.engr.washington.edu/mycoe/oaetl). It is funded by grants from the National Science Foundation and Google Cloud.
 
 🏅 Awarded [_Recognition for Contribution to Diversity and Inclusion_](https://cscw.acm.org/2022/awards/) at the 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 2022).
