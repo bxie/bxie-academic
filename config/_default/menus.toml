@@ -24,9 +24,14 @@
   weight = 30
 
 [[main]]
-  name = "travel"
-  url = "/travel"
-  weight = 40 
+  name = "teaching"
+  url = "/teaching"
+  weight = 35
+
+[[main]]
+  name = "in the news"
+  url = "/press"
+  weight = 40
 
 [[main]]
   name = "blog <i class='fas fa-external-link-alt' style='opacity:0.3'></i>"
@@ -42,7 +47,7 @@
 # [[main]]
 #   name = "Impact"
 #   url = "#impact"
-#   weight = 60  
+#   weight = 60
 
 # [[main]]
 #   name = "Bio"
