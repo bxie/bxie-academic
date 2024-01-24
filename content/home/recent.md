@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
-  url = "/publication/eaai-2023b/"
+  url = "/publication/eaai-2024b/"
   date = "2023-12-10"
   description = "Master's students' paper on tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
   url_text="see paper"  
 
 [[item]]
   title = "Paper on GenAI curriculum co-design accepted to AAAI EAAI 2024"
-  url = "/publication/eaai-2023/"
+  url = "/publication/eaai-2024/"
   date = "2023-12-10"
   description = "Paper on co-designing Generative AI curriculum with cross-disciplinary high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
   url_text="see paper"  
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Paper on computing ethics instruction accepted to TOCE"
-  url = "/publication/toce-2023/"
+  url = "/publication/toce-2024/"
   date = "2023-11-28"
   description = "Review of 40 years of research on ethics instruction in higher education computing courses accepted to the Transactions on Computing Education (TOCE) Journal!"
   url_text = "see paper"
