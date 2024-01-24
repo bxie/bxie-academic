@@ -3,7 +3,7 @@
 
 title: "Teaching Ethics in Computing: A Systematic Literature Review of ACM Computer Science Education Publications"
 authors: ["Noelle Brown", "Benjamin Xie", "Ella Sarder", "Casey Fiesler", "Eliane S. Wiese"]
-date: 2023-11-30
+date: 2024-01-14
 doi: "10.1145/3634685"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ACM Transactions on Computing Education"
-publication_short: "TOCE 2023"
+publication_short: "TOCE 2024"
 
 abstract: "The computing education research community now has at least 40 years of published research on teaching ethics in higher education. To examine the state of our field, we present a systematic literature review of papers in the Association for Computing Machinery (ACM) computing education venues that describe teaching ethics in higher-education computing courses. Our review spans all papers published to SIGCSE, ICER, ITiCSE, CompEd, Koli Calling, and TOCE venues through 2022, with 100 papers fulfilling our inclusion criteria. Overall, we found a wide variety in content, teaching strategies, challenges, and recommendations. The majority of the papers did not articulate a conception of “ethics,” and those that did used many different conceptions, from broadly-applicable ethical theories, to social impact, to specific computing application areas (e.g., data privacy, hacking). Instructors used many different pedagogical strategies (e.g., discussions, lectures, assignments) and formats (e.g., standalone courses, incorporated within a technical course). Many papers identified measuring student knowledge as a particular challenge, and 59% of papers included mention of assessments or grading. Of the 69% of papers that evaluated their ethics instruction, most used student self-report surveys, course evaluations, and instructor reflections. While many papers included calls for more ethics content in computing, specific recommendations were rarely broadly applicable, preventing a synthesis of guidelines. To continue building on the last 40 years of research and move toward a set of best practices for teaching ethics in computing, our community should delineate our varied conceptions of ethics, examine which teaching strategies are best suited for each, and explore how to measure student learning."
 
