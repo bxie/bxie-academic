@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Presenting at Kapor Foundation Meeting"
+  url="https://www.kaporcenter.org/kapor-foundation/"
+  date = "2024-02-27"
+  description = "Presenting on my research on Critical AI Education."
+  url_text="about Kapor Foundation"
+
+[[item]]
+  title = "Presented at University of Denver CS"
+  url = "https://ritchieschool.du.edu/academics-education/departments/computer-science"
+  date = "2024-02-08"
+  description = "Presented on my research on 'Designing Critical and Equitable Human-Data Interactions'."
+  url_text="about DU CS"
+
+[[item]]
   title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
   url = "/publication/eaai-2024b/"
   date = "2023-12-10"
@@ -32,10 +46,10 @@ date_format = "Jan 2006"
   description = "Paper on co-designing Generative AI curriculum with cross-disciplinary high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
   url_text="see paper"  
 
-[[item]]
-  title = "Presented at UCSD CSE"
-  date = "2023-12-03"
-  description = "Presented on my research and teaching on designing equitable and ethical computing education at UC San Diego's Computer Science & Engineering Department."
+# [[item]]
+#   title = "Presented at UCSD CSE"
+#   date = "2023-12-03"
+#   description = "Presented on my research and teaching on designing equitable and ethical computing education at UC San Diego's Computer Science & Engineering Department."
 
 [[item]]
   title = "Paper on computing ethics instruction accepted to TOCE"
@@ -44,12 +58,12 @@ date_format = "Jan 2006"
   description = "Review of 40 years of research on ethics instruction in higher education computing courses accepted to the Transactions on Computing Education (TOCE) Journal!"
   url_text = "see paper"
 
-[[item]]
-  title = "Awarded grant from Stanford Woods Institute"
-  url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects/empowering-youth-frontline-communities-through-climate-data"
-  date = "2023-06-15"
-  description = "Proposal on _Addressing Environmental Data Inequities by Empowering Youth in Frontline Communities_ awarded $249k by Stanford Woods Institute for the Environment."
-  url_text = "about grant"
+# [[item]]
+#   title = "Awarded grant from Stanford Woods Institute"
+#   url = "https://woods.stanford.edu/research/funding-opportunities/environmental-venture-projects/empowering-youth-frontline-communities-through-climate-data"
+#   date = "2023-06-15"
+#   description = "Proposal on _Addressing Environmental Data Inequities by Empowering Youth in Frontline Communities_ awarded $249k by Stanford Woods Institute for the Environment."
+#   url_text = "about grant"
 
 
 # [[item]]
