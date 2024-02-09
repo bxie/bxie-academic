@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Presenting at Kapor Foundation Meeting"
+  title = "Presenting at Kapor Foundation"
   url="https://www.kaporcenter.org/kapor-foundation/"
   date = "2024-02-27"
   description = "Presenting on my research on Critical AI Education."
