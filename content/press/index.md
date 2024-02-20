@@ -30,9 +30,9 @@ header:
 
 [_Benjamin Xie: Designing Data and Tech Experiences with Underresourced Communities_](https://www.linkedin.com/pulse/benjamin-xie-designing-data-tech-experiences-underresourced). Stanford HAI, 4 April 2023
 
-[Ph.D. Student Profile: Benji Xie](https://ischool.uw.edu/programs/phd/people/students/xie). UW Information School, 2022.
-
 [_5 iSchool Students Among Husky 100_](https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100). UW Information School, 24 May 2021
+
+[Ph.D. Student Profile: Benji Xie](https://ischool.uw.edu/programs/phd/people/students/xie). UW Information School, 9 April 2020.
 
 
 ## Public-Facing Articles Benji Wrote
