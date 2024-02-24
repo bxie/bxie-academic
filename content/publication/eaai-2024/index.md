@@ -37,7 +37,8 @@ featured: false
 
 links:
 - name: Conference Website
-  urL: https://eaai-conf.github.io/year/eaai-24.html
+  url: https://eaai-conf.github.io/year/eaai-24.html
+
 # - name: Supplementary Material
   # url: https://github.com/codeandcognition/archive-2023icer-xie
 # - name: Blog Post
