@@ -51,9 +51,9 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://docs.google.com/presentation/d/17ZaSdJ5qs_5J2fXZtlZQGk_meD3hJdQV_HADpl7EI-w/edit?usp=sharing
 url_source:
-# url_video: https://vimeo.com/849679040
+url_video: https://underline.io/lecture/93884-co-designing-ai-education-curriculum-with-cross-disciplinary-high-school-teachers
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
