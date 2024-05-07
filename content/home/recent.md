@@ -19,18 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Presented at Kapor Foundation"
+  title = "Joining University of Denver CS as faculty!"
+  url="https://ritchieschool.du.edu/academics-education/departments/computer-science"
+  date = "2024-05-07"
+  description = "I have accepted an offer to join Univ. of Denver CS as a tenure-track assistant professor, starting fall 2025. I will stay at Stanford during the 2024-25 academic year"
+  url_text="about DU CS"
+
+[[item]]
+  title = "Presented on AI in education at Kapor Foundation"
   url="https://docs.google.com/presentation/d/1VsBqE9ve2xrOi50kClzy56atIvB2Tb6cStTRIHDFSWI/edit?usp=sharing"
   date = "2024-02-27"
   description = "Presented on ongoing research related to critically learning with and about AI."
   url_text="see slides"
 
-[[item]]
-  title = "Presented at University of Denver CS"
-  url = "https://ritchieschool.du.edu/academics-education/departments/computer-science"
-  date = "2024-02-08"
-  description = "Presented on my research on 'Designing Critical and Equitable Human-Data Interactions'."
-  url_text="about DU CS"
+# [[item]]
+#   title = "Presented at University of Denver CS"
+#   url = "https://ritchieschool.du.edu/academics-education/departments/computer-science"
+#   date = "2024-02-08"
+#   description = "Presented on my research on 'Designing Critical and Equitable Human-Data Interactions'."
+#   url_text="about DU CS"
 
 [[item]]
   title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
