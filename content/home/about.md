@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-# title = "I design critical and equitable human-data interactions."
-title = "I design for equitable and ethical computing education."
+title = "I design equitable and educational human-data interactions."
+# title = "I design for equitable and ethical computing education."
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
