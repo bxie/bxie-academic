@@ -26,6 +26,8 @@ header:
 ---
 
 ## News About Benji the Academic
+[_Celebrating Our Outgoing Postdoctoral Fellows_](https://ethicsinsociety.stanford.edu/news/celebrating-our-outgoing-postdoctoral-fellows). Stanford McCoy Center for Ethics in Society, 12 June 2024
+
 [_Bringing AI Literacy to High Schools_](https://hai.stanford.edu/news/bringing-ai-literacy-high-schools). Stanford HAI, 7 Aug 2023
 
 [_Benjamin Xie: Designing Data and Tech Experiences with Underresourced Communities_](https://www.linkedin.com/pulse/benjamin-xie-designing-data-tech-experiences-underresourced). Stanford HAI, 4 April 2023
@@ -52,4 +54,4 @@ Immediately after running 26.2 miles to finish second in the 2020 Disney World M
 
 > Tourist Benji Xie said people were swimming at the base of waterfalls when the flash flooding struck. He and his friends ran up to a bathroom with other campers to wait out the rain.
 
-The first (and only?) time the [AP News interviewed me](https://apnews.com/general-news-11d3f78a517f43a3a5541288938b4e79) was after my friends and got caught in a flash flood in the Havasupai reservation of the Grand Canyon in 2018. To my recollection, I gave an incredible story about how members of the Havasupai Tribe acted swiftly and decisively with limited resources to ensure the safety of some 200 tourists. But instead, they recorded by rich descriptions [and photos](https://www.santafenewmexican.com/news/local_news/flash-flood-sends-tourists-to-high-ground-near-grand-canyon/article_d66dfcb3-4098-51b3-81d9-391c4d9f16c9.html) of water mixing with sand.
+The first (and only?) time the [AP News interviewed me](https://apnews.com/general-news-11d3f78a517f43a3a5541288938b4e79) was after my friends I and got caught in a flash flood in the Havasupai reservation of the Grand Canyon in 2018. To my recollection, I gave an incredible story about how members of the Havasupai Tribe acted swiftly and decisively with limited resources to ensure the safety of some 200 tourists. But instead, they recorded my rich descriptions [and photos](https://www.santafenewmexican.com/news/local_news/flash-flood-sends-tourists-to-high-ground-near-grand-canyon/article_d66dfcb3-4098-51b3-81d9-391c4d9f16c9.html) of water mixing with sand.
