@@ -19,7 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Joining University of Denver CS as faculty!"
+  title = "Paper on Benchmarking LLMs for CSEd Accepted to ICER!"
+  url="/publication/icer-2024/"
+  date = "2024-06-10"
+  description = "Research on using automated benchmarking infrastructure to understand differences in LLM and student performance.accepted to ICER 2024"
+  url_text="see paper"
+
+[[item]]
+  title = "Joining University of Denver CS as faculty! 🌄 "
   url="https://ritchieschool.du.edu/academics-education/departments/computer-science"
   date = "2024-05-07"
   description = "I have accepted an offer to join Univ. of Denver CS as a tenure-track assistant professor, starting fall 2025. I will stay at Stanford during the 2024-25 academic year"
@@ -58,12 +65,12 @@ date_format = "Jan 2006"
 #   date = "2023-12-03"
 #   description = "Presented on my research and teaching on designing equitable and ethical computing education at UC San Diego's Computer Science & Engineering Department."
 
-[[item]]
-  title = "Paper on computing ethics instruction accepted to TOCE"
-  url = "/publication/toce-2024/"
-  date = "2023-11-28"
-  description = "Review of 40 years of research on ethics instruction in higher education computing courses accepted to the Transactions on Computing Education (TOCE) Journal!"
-  url_text = "see paper"
+# [[item]]
+#   title = "Paper on computing ethics instruction accepted to TOCE"
+#   url = "/publication/toce-2024/"
+#   date = "2023-11-28"
+#   description = "Review of 40 years of research on ethics instruction in higher education computing courses accepted to the Transactions on Computing Education (TOCE) Journal!"
+#  url_text = "see paper"
 
 # [[item]]
 #   title = "Awarded grant from Stanford Woods Institute"
