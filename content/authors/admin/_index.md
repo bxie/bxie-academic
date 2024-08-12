@@ -82,7 +82,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an Embedded Ethics Postdoctoral Fellow at Stanford University's [Institute for Human-Centered AI](https://hai.stanford.edu/) and [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/). My research interest is in designing critical and equitable human-data interactions for educational and environmental outcomes. I engage with computing education, human-computer interaction, and AI ethics research communities.
+I am an Embedded Ethics Postdoctoral Fellow at Stanford University's [Institute for Human-Centered AI](https://hai.stanford.edu/) and [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/). I will start as an Assistant Professor at the [University of Denver Department of Computer Science](https://ritchieschool.du.edu/academics-education/departments/computer-science) in fall 2025. My research interest is in designing critical and equitable human-data interactions for educational and environmental outcomes. I engage with computing education, human-computer interaction, and AI ethics research communities.
 
 I completed my PhD at the University of Washington Information School with Prof. Amy Ko, where I was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern at non-profit Code.org. Prior to my PhD, I was an MIT EECS-Google Research and Innovation Scholar as an undergraduate and Master's student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
 
