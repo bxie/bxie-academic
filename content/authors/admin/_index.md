@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Embedded Ethics Postdoctoral Fellow, Stanford Human-Centered AI Institute & Ethics Center. Assistant Professor, University of Denver CS.
+bio: Postdoctoral Fellow, Stanford University HCI & GSE. Assistant Professor, University of Denver CS.
 
 interests:
 - Computing Education
