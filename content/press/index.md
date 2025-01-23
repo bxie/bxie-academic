@@ -26,6 +26,9 @@ header:
 ---
 
 ## News About Benji the Academic
+
+[_More people might misunderstand AI than you think. Here’s why_](https://stanforddaily.com/2025/01/17/why-people-misunderstand-ai/). Jolie Li, Stanford Daily. 17 Jan 2025.
+
 [_Celebrating Our Outgoing Postdoctoral Fellows_](https://ethicsinsociety.stanford.edu/news/celebrating-our-outgoing-postdoctoral-fellows). Stanford McCoy Center for Ethics in Society, 12 June 2024
 
 [_Bringing AI Literacy to High Schools_](https://hai.stanford.edu/news/bringing-ai-literacy-high-schools). Stanford HAI, 7 Aug 2023
