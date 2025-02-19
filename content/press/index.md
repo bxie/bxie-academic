@@ -31,6 +31,8 @@ header:
 
 [_Celebrating Our Outgoing Postdoctoral Fellows_](https://ethicsinsociety.stanford.edu/news/celebrating-our-outgoing-postdoctoral-fellows). Stanford McCoy Center for Ethics in Society, 12 June 2024
 
+[_Ethics on the brain_](https://momentum.stanford.edu/stories/ethics-on-the-brain). Libby Dickinson, Stanford Momentum. 1 Feb 2024.
+
 [_Bringing AI Literacy to High Schools_](https://hai.stanford.edu/news/bringing-ai-literacy-high-schools). Stanford HAI, 7 Aug 2023
 
 [_Benjamin Xie: Designing Data and Tech Experiences with Underresourced Communities_](https://www.linkedin.com/pulse/benjamin-xie-designing-data-tech-experiences-underresourced). Stanford HAI, 4 April 2023
