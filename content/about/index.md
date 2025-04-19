@@ -45,7 +45,7 @@ Updated Sep 2022. A few life events included to provide context.
 
 - **2018**: I worked with Dr. Min Li (UW College of Education), my advisor, and other UW collaborators to develop and evaluate a [theory of instruction for introductory programming skills](publication/cse-2019/). I also worked with an undergraduate researcher to understand [experiences of CS transfer students](/publication/icer-2018).
 
-- **2017**: I worked with labmate [Greg Nelson](http://greglnelson.info/) to evaluate a [system](/publication/icer-2017/) he created that teaches code reading skills. I spent part of the summer at Carnegie Mellon University as part of their [LearnLab Summer School](https://medium.com/bits-and-behavior/cmu-learnlab-summer-school-2017-innovation-understanding-iteration-ed8afba3cb1c). I also adopted a [rescue dog](/curie)!
+- **2017**: I worked with labmate [Greg Nelson](http://greglnelson.info/) to evaluate a [system](/publication/icer-2017/) he created that teaches code reading skills. I spent part of the summer at Carnegie Mellon University as part of their [LearnLab Summer School](https://medium.com/bits-and-behavior/cmu-learnlab-summer-school-2017-innovation-understanding-iteration-ed8afba3cb1c). I also adopted a [rescue dog](/dogs)!
 
 - **2016**: I completed by Master's at MIT and had a fantastic summer of adventure. In the fall, I **moved to Seattle and began my Ph.D. at the University of Washington** [Information School](https://ischool.uw.edu/) as a National Science Foundation (NSF) Graduate Research Fellow working with [Amy J. Ko](https://faculty.washington.edu/ajko/). I also served as head of the educational co-op for Seattle Data for Good, a nonprofit dedicated to supporting community organizations with their data and technology needs.
 
