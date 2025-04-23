@@ -34,10 +34,15 @@
   weight = 40
 
 [[main]]
-  name = "blog <i class='fas fa-external-link-alt' style='opacity:0.3'></i>"
-  url = "https://medium.com/@benjixie"
-  # url = "#blog"
+  name = "students"
+  url = "/post/students"
   weight = 50
+
+# [[main]]
+#   name = "blog <i class='fas fa-external-link-alt' style='opacity:0.3'></i>"
+#   url = "https://medium.com/@benjixie"
+#   # url = "#blog"
+#   weight = 50
 
 [[main]]
   name = "cv"

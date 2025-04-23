@@ -28,4 +28,4 @@ email_form = 0
 # ~~My lab is in [Mary Gates Hall (MGH)](https://www.washington.edu/maps/?mgh) 015.~~ I'm working remotely. Catch you on Zoom!
 
 +++
-Please reach out to me by email or Twitter direct message! If you are a Stanford affiliate, please send me a [Slack](https://uit.stanford.edu/service/slack) direct message.
+Please reach out to me by email! If you are a Stanford or University of Denver CS affiliate, please send me a direct message. I'm better at responding on Slack.
