@@ -42,7 +42,7 @@ As of April 2025, I am excited to be advising 1-2 PhD students and 0-1 Master's 
 This information relates to students who DU has admitted or currently study at the University of Denver.
 
 ## Current DU PhD Students
-I may advise up to 2 additional current/admitted DU PhD students. If you are interested in working with me, please read on.
+I currently do not have the funding to advise any more PhD students.
 
 ## Current DU Master's Students
 I will not know about my capacity to advise or fund any Master's students until August 2025. Please check back with me then.
@@ -54,7 +54,7 @@ I will not know about my capacity to advise [Honors theses](https://bulletin.du.
 This information pertains to students applying to DU during the 2025-2026 to start around fall 2026.
 
 ## Prospective PhD Students
-I plan to recruit 0-2 PhD students to start fall 2026. While the DU PhD program has a rolling application process and start date, I prefer PhD students start in the fall to enable a greater sense of community amongst their cohort of PhD applicants. However, I recognize other start dates may make sense due to students' circumstances.
+I plan to recruit up to 1 more PhD student to start fall 2026. While the DU PhD program has a rolling application process and start date, I prefer PhD students start in the fall to enable a greater sense of community amongst their cohort of PhD applicants. However, I recognize other start dates may make sense due to students' circumstances.
 
 ## Prospective Master's Students
 DU offers the following Master's degrees: [Computer Science MS](https://ritchieschool.du.edu/academics-education/gr-programs/ms-computer-science), [Cybersecurity MS](https://ritchieschool.du.edu/academics-education/gr-programs/ms-cybersecurity), and [Applied Data Science and AI MS](https://ritchieschool.du.edu/academics-education/gr-programs/ms-online-applied-data-science-and-artificial-intelligence). I am not involved in reviewing applications for any of DU's Master's programs. If you are interested in working with me, please reach out to me after you have been admitted.
@@ -70,7 +70,7 @@ I get a lot of emails from students and unfortunately many of them appear AI-gen
 
 ### My Research Values
 * *Equity*: research advances equity or justice oriented goals by making space for critiquing and/or changing existing social structures and norms
-* *Plurality: research makes space for pluralistic interpretations or uses of data and/or computing
+* *Plurality*: research makes space for pluralistic interpretations or uses of data and/or computing
 * *Learning*: research involves individuals, groups, and/or communities learning, preferably in a socially-situated context
 * *Boundary Crossing*: people’s diverse expertise and lived experiences enrichen the research
 * *Augmenting What Already Exists*: Use of data and computing augment existing social initiatives
