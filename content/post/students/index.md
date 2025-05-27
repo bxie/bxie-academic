@@ -77,9 +77,9 @@ I get a lot of emails from students and unfortunately many of them appear AI-gen
 
 Assuming we have sufficient overlap in research values and interests...
 
-Write to me! Email me at benjixie@du.edu with the following information:
+Write to me! Email me at benji.xie@du.edu with the following information:
 1. Indicate your **current status**: For current students, indicate what program and year of your program you're in (e.g. 3rd year undergraduate majoring in CS). For prospective students, indicate what program(s) you're interested in and the status of your application (e.g. interested in a PhD in CS starting Fall next year, but have not applied yet).
-2. Briefly describe a **potential research project**: In a short paragraph (2-5 sentences), describe to me a potential research idea you have. This description can include 1) a broader goal or vision this project could advance, 2) what steps are involved to execute the project, 3) what you hope to discover, and 4) how this project could advance knowledge and/or impact society. Doing this gives me a concrete idea of what you're interested so we can talk about it. It doesn't have to be fully thought out, and I am not asking you to commit to the project!
+2. Briefly describe a **potential research project**: In a short paragraph (2-5 sentences), describe to me a potential research idea you have. This description can include 1) a broader goal or vision this project could advance, 2) what steps are involved to execute the project, 3) what you hope to discover, and 4) how this project could advance knowledge and/or impact society. Doing this gives me a concrete idea of what you're interested so we can talk about it. It doesn't have to be a fully thought out project, but more detail helps. I am not asking you to commit to the project!
 3. Let me know of any **deadlines** you have (e.g. need to find an advisor before Fall term begins).
 4. Let me know what **questions** I can answer.
 
