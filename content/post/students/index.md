@@ -1,5 +1,5 @@
 ---
-title: "Info for Students Interested Having Me as an Advisor"
+title: "Info for Students Interested in Having Me as an Advisor"
 subtitle: "Prospective and Current Students: Let's Team Up at DU!"
 summary: "Info on whether I am accepting new students and how I prefer students contact me."
 authors:
