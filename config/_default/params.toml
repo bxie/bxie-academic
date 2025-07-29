@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Benjamin Xie (Benji Xie), Postdoctoral Fellow at the Stanford University and incoming Assistant Professor of Computer Science at the University of Denver."
+description = "Personal website of Benjamin Xie (Benji Xie), Assistant Professor of Computer Science at the University of Denver."
 
 ############################
 ## Site Features

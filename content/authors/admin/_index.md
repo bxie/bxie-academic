@@ -14,15 +14,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Denver
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Fellow, Stanford University HCI & GSE. Assistant Professor, University of Denver CS.
+bio: Assistant Professor of Computer Science, University of Denver.
 
 interests:
 - Computing Education
@@ -82,8 +82,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Postdoctoral Fellow with Stanford University's [Human-Computer Interaction Group](https://hci.stanford.edu/) and [Graduate School of Education](https://ed.stanford.edu/). I will start as an Assistant Professor at the [University of Denver Department of Computer Science](https://ritchieschool.du.edu/academics-education/departments/computer-science) in fall 2025. My research interest is in designing critical and equitable human-data interactions for educational and environmental outcomes. I engage with computing education, human-computer interaction, and AI ethics research communities.
+I am an Assistant Professor at the [University of Denver Department of Computer Science](https://ritchieschool.du.edu/academics-education/departments/computer-science). My research interest is in designing critical and equitable human-data interactions for educational and environmental outcomes. I engage with computing education, human-computer interaction, and AI ethics research communities.
 
-I was previously an Embedded Ethics Fellow with Stanford's Institute for Human-Centered AI and McCoy Center for Ethics in Society. I completed my PhD at the University of Washington Information School with Prof. Amy Ko, where I was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern at non-profit Code.org. Prior to my PhD, I was an MIT EECS-Google Research and Innovation Scholar as an undergraduate and Master's student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
+I was previously a Postdoctoral Fellow with Stanford University's [Human-Computer Interaction Group](https://hci.stanford.edu/) and [Graduate School of Education](https://ed.stanford.edu/) and an  Embedded Ethics Fellow with Stanford's Institute for Human-Centered AI and McCoy Center for Ethics in Society. I completed my PhD at the University of Washington Information School with Prof. Amy Ko, where I was a National Science Foundation (NSF) Graduate Research Fellow and also a research intern at non-profit Code.org. Prior to my PhD, I was an MIT EECS-Google Research and Innovation Scholar as an undergraduate and Master's student at MIT researching with Prof. Hal Abelson and MIT App Inventor.
 
 For more information, see [about me](/about), [projects](#projects), or [CV](/files/cv.pdf).
