@@ -51,7 +51,7 @@ social:
 - icon: envelope
   icon_pack: fas
   # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: mailto:benjixie@stanford.edu
+  link: mailto:benji.xie@du.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BenjiXie
