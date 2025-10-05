@@ -31,12 +31,12 @@ image:
 projects: []
 ---
 
-In fall 2025, I will start as an [Assistant Professor at the University of Denver Department of Computer Science](https://ritchieschool.du.edu/about/people/benjamin-xie). I'm looking to recruit new students interested in working with me. However, I have to limit the number of students I advise so I have the capacity to support them developmentally and financially.
+In fall 2025, I started as an [Assistant Professor at the University of Denver Department of Computer Science](https://ritchieschool.du.edu/about/people/benjamin-xie). I'm looking to recruit new students interested in working with me. However, I have to limit the number of students I advise so I have the capacity to support them developmentally and financially.
 
 This page provides information for current and prospective University of Denver (DU) students on whether I am able to advise new students and how I would recommend students reach out to me. The goal is to be more fair and transparent with information to students and establish norms for correspondence.
 
 # Who I'm Currently Advising
-As of April 2025, I am excited to be advising 1-2 PhD students and 0-1 Master's student for the 2025-2026 academic year! More info about them to come...
+As of Oct 2025, I am excited to be advising 2 PhD students, mentoring 2 PhD students' independent studies, and serving on 2 committees for the 2025-2026 academic year! More info about them to come...
 
 # For Current DU Students
 This information relates to students who DU has admitted or currently study at the University of Denver.
@@ -85,8 +85,9 @@ Write to me! Email me at benji.xie@du.edu with the following information:
 
 Other notes on emailing me:
 - You may (but are not required to) attach a resume or CV or link to a website or portfolio.
-- If I haven't responded to you, please feel free to follow up in 7-10 days.
 - Please do NOT send me any transcripts.
+- Please do NOT include photos of yourself in materials you send me. If your materials already include a photo (e.g. in a resume), it's fine to leave it.
+- If I haven't responded to you, please feel free to follow up in 7-10 days.
 
 ## Closing Thoughts: I promise I'm not scary.
 Did all these policies make you feel intimidated by me? I'm sorry; that's totally fair. I too was scared of reaching out to professors (and still kind of am?). If you don't follow the policies I outlined here exactly or are confused, please still reach out to me. 
