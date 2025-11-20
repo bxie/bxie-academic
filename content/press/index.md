@@ -29,15 +29,17 @@ header:
 
 [_More people might misunderstand AI than you think. Here’s why_](https://stanforddaily.com/2025/01/17/why-people-misunderstand-ai/). Jolie Li, Stanford Daily. 17 Jan 2025.
 
-[_Celebrating Our Outgoing Postdoctoral Fellows_](https://ethicsinsociety.stanford.edu/news/celebrating-our-outgoing-postdoctoral-fellows). Stanford McCoy Center for Ethics in Society, 12 June 2024
+[_Equity Spotlight: Benjamin Xie_](https://dl.acm.org/doi/pdf/10.1145/3717596.3717604). Julie M. Smith and Charles Wallace, SIGCSE Bulletin. Jan 2025.
+
+[_Celebrating Our Outgoing Postdoctoral Fellows_](https://ethicsinsociety.stanford.edu/news/celebrating-our-outgoing-postdoctoral-fellows). Stanford McCoy Center for Ethics in Society, 12 June 2024.
 
 [_Ethics on the brain_](https://momentum.stanford.edu/stories/ethics-on-the-brain). Libby Dickinson, Stanford Momentum. 1 Feb 2024.
 
-[_Bringing AI Literacy to High Schools_](https://hai.stanford.edu/news/bringing-ai-literacy-high-schools). Stanford HAI, 7 Aug 2023
+[_Bringing AI Literacy to High Schools_](https://hai.stanford.edu/news/bringing-ai-literacy-high-schools). Stanford HAI, 7 Aug 2023.
 
-[_Benjamin Xie: Designing Data and Tech Experiences with Underresourced Communities_](https://www.linkedin.com/pulse/benjamin-xie-designing-data-tech-experiences-underresourced). Stanford HAI, 4 April 2023
+[_Benjamin Xie: Designing Data and Tech Experiences with Underresourced Communities_](https://www.linkedin.com/pulse/benjamin-xie-designing-data-tech-experiences-underresourced). Stanford HAI, 4 April 2023.
 
-[_5 iSchool Students Among Husky 100_](https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100). UW Information School, 24 May 2021
+[_5 iSchool Students Among Husky 100_](https://ischool.uw.edu/news/2021/05/5-ischool-students-among-husky-100). UW Information School, 24 May 2021.
 
 [Ph.D. Student Profile: Benji Xie](https://ischool.uw.edu/programs/phd/people/students/xie). UW Information School, 9 April 2020.
 
