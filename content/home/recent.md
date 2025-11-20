@@ -19,25 +19,60 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Paper on Benchmarking LLMs for CSEd Accepted to ICER!"
-  url="/publication/icer-2024/"
-  date = "2024-06-10"
-  description = "Research on using automated benchmarking infrastructure to understand differences in LLM and student performance.accepted to ICER 2024"
+  title = "WE'RE HIRING. Join me at DU CS! 🌄"
+  url="https://jobs.du.edu/en-us/job/498357/tenure-track-faculty-computer-science"
+  date = "2025-11-21"
+  description = "We're hiring multiple tenure-track faculty in computer science. Be part of a 'unicorn' department!"
+  url_text="job posting"
+
+[[item]]
+  title = "Presenting at DU Ignite on Jan 14, 2026"
+  url="https://www.du.edu/orsp/events/ignite-talks-january"
+  date = "2025-11-20"
+  description = "Presenting on my interdisciplinary research efforts to embed critical AI education into K-12."
+  url_text="about event"
+
+[[item]]
+  title = "Faculty Affiliate with Scrivner Institute of Public Policy"
+  url="https://korbel.du.edu/scrivner/"
+  date = "2025-11-20"
+  description = "Working to inform evidence-based AI policy making in Colorado."
+  url_text="about institute"
+
+[[item]]
+  title = "Founded DU Human-Computer Interaction Group"
+  url="https://ritchieschool.du.edu/hci"
+  date = "2025-10-01"
+  description = "With Profs. Alannah Oleson and Kerstin Hering, I founded a research group to design technologies that augment people and communities."
+  # url_text="see paper"
+
+[[item]]
+  title = "Article accepted to ACM Inroads Magazine"
+  url="https://dl.acm.org/doi/10.1145/3734876"
+  date = "2025-06-09"
+  description = "Murtaza Ali and I published an article advocating for the broader use of AI benchmarking infrastructure."
   url_text="see paper"
 
-[[item]]
-  title = "Joining University of Denver CS as faculty! 🌄 "
-  url="https://ritchieschool.du.edu/academics-education/departments/computer-science"
-  date = "2024-05-07"
-  description = "I have accepted an offer to join Univ. of Denver CS as a tenure-track assistant professor, starting fall 2025. I will stay at Stanford during the 2024-25 academic year"
-  url_text="about DU CS"
+# [[item]]
+#   title = "Paper on Benchmarking LLMs for CSEd Accepted to ICER!"
+#   url="/publication/icer-2024/"
+#   date = "2024-06-10"
+#   description = "Research on using automated benchmarking infrastructure to understand differences in LLM and student performance.accepted to ICER 2024"
+#   url_text="see paper"
 
-[[item]]
-  title = "Presented on AI in education at Kapor Foundation"
-  url="https://docs.google.com/presentation/d/1VsBqE9ve2xrOi50kClzy56atIvB2Tb6cStTRIHDFSWI/edit?usp=sharing"
-  date = "2024-02-27"
-  description = "Presented on ongoing research related to critically learning with and about AI."
-  url_text="see slides"
+# [[item]]
+#   title = "Joining University of Denver CS as faculty! 🌄 "
+#   url="https://ritchieschool.du.edu/academics-education/departments/computer-science"
+#   date = "2024-05-07"
+#   description = "I have accepted an offer to join Univ. of Denver CS as a tenure-track assistant professor, starting fall 2025. I will stay at Stanford during the 2024-25 academic year"
+#   url_text="about DU CS"
+
+# [[item]]
+#   title = "Presented on AI in education at Kapor Foundation"
+#   url="https://docs.google.com/presentation/d/1VsBqE9ve2xrOi50kClzy56atIvB2Tb6cStTRIHDFSWI/edit?usp=sharing"
+#   date = "2024-02-27"
+#   description = "Presented on ongoing research related to critically learning with and about AI."
+#   url_text="see slides"
 
 # [[item]]
 #   title = "Presented at University of Denver CS"
@@ -46,19 +81,19 @@ date_format = "Jan 2006"
 #   description = "Presented on my research on 'Designing Critical and Equitable Human-Data Interactions'."
 #   url_text="about DU CS"
 
-[[item]]
-  title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
-  url = "/publication/eaai-2024b/"
-  date = "2023-12-10"
-  description = "Master's students' paper on tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
-  url_text="see paper"  
+# [[item]]
+#   title = "Students' paper on tool to scaffold ChatGPT use for high school students accepted to AAAI EAAI 2024"
+#   url = "/publication/eaai-2024b/"
+#   date = "2023-12-10"
+#   description = "Master's students' paper on tool to scaffold ChatGPT usage for high school language arts accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
+#   url_text="see paper"  
 
-[[item]]
-  title = "Paper on GenAI curriculum co-design accepted to AAAI EAAI 2024"
-  url = "/publication/eaai-2024/"
-  date = "2023-12-10"
-  description = "Paper on co-designing Generative AI curriculum with cross-disciplinary high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
-  url_text="see paper"  
+# [[item]]
+#   title = "Paper on GenAI curriculum co-design accepted to AAAI EAAI 2024"
+#   url = "/publication/eaai-2024/"
+#   date = "2023-12-10"
+#   description = "Paper on co-designing Generative AI curriculum with cross-disciplinary high school teachers accepted to AAAI Symposium on Educational Advances in Artificial Intelligence."
+#   url_text="see paper"  
 
 # [[item]]
 #   title = "Presented at UCSD CSE"
