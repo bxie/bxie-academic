@@ -19,18 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "WE'RE HIRING. Join me at DU CS! 🌄"
-  url="https://jobs.du.edu/en-us/job/498357/tenure-track-faculty-computer-science"
-  date = "2025-11-21"
-  description = "We're hiring multiple tenure-track faculty in computer science. Be part of a 'unicorn' department!"
-  url_text="job posting"
-
-[[item]]
   title = "Presenting at DU Ignite on Jan 14, 2026"
   url="https://www.du.edu/orsp/events/ignite-talks-january"
-  date = "2025-11-20"
+  date = "2026-01-01"
   description = "Presenting on my interdisciplinary research efforts to embed critical AI education into K-12."
   url_text="about event"
+
+[[item]]
+  title = "Awarded DU Grant to Investigate Sexism in Human-AI Interactions"
+  url="https://www.du.edu/facsen/awards-grants/faculty-research-fund"
+  date = "2025-12-19"
+  description = "Grant funds collaboration w/ Prof. Lindsey Feitz (Gender and Women's Studies) and supports CS PhD student Sunny Shretha's research."
+  url_text="about grant"
 
 [[item]]
   title = "Faculty Affiliate with Scrivner Institute of Public Policy"
