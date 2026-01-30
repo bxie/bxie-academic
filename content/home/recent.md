@@ -26,6 +26,13 @@ date_format = "Jan 2006"
   url_text="about event"
 
 [[item]]
+  title = "Awarded ACM SIGCSE Special Projects Grant "
+  url="https://sigcse.org/programs/special/"
+  date = "2026-01-29"
+  description = "Grant funds CS PhD student Demi Jaiyeola's research on improving neurodiverse programming students' experiences with AI tools."
+  url_text="about grant"
+
+[[item]]
   title = "Awarded DU Grant to Investigate Sexism in Human-AI Interactions"
   url="https://www.du.edu/facsen/awards-grants/faculty-research-fund"
   date = "2025-12-19"
@@ -46,12 +53,12 @@ date_format = "Jan 2006"
   description = "With Profs. Alannah Oleson and Kerstin Hering, I founded a research group to design technologies that augment people and communities."
   # url_text="see paper"
 
-[[item]]
-  title = "Article accepted to ACM Inroads Magazine"
-  url="https://dl.acm.org/doi/10.1145/3734876"
-  date = "2025-06-09"
-  description = "Murtaza Ali and I published an article advocating for the broader use of AI benchmarking infrastructure."
-  url_text="see paper"
+# [[item]]
+#   title = "Article accepted to ACM Inroads Magazine"
+#   url="https://dl.acm.org/doi/10.1145/3734876"
+#   date = "2025-06-09"
+#   description = "Murtaza Ali and I published an article advocating for the broader use of AI benchmarking infrastructure."
+#   url_text="see paper"
 
 # [[item]]
 #   title = "Paper on Benchmarking LLMs for CSEd Accepted to ICER!"
