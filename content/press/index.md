@@ -44,6 +44,9 @@ header:
 [Ph.D. Student Profile: Benji Xie](https://ischool.uw.edu/programs/phd/people/students/xie). UW Information School, 9 April 2020.
 
 
+## Articles Quoting Me
+[Data center moratorium gets unanimous approval in Denver, but that’s just the beginning]. (https://denverite.com/2026/05/18/denver-data-center-moratorium-passes-ban/) The Denverite, 18 May 2026
+
 ## Public-Facing Articles Benji Wrote
 _I also periodically blog about my research and teaching to broader audiences on [Medium](https://medium.com/@benjixie)._
 
