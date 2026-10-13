@@ -45,7 +45,9 @@ header:
 
 
 ## Articles Quoting Me
-[Data center moratorium gets unanimous approval in Denver, but that’s just the beginning]. (https://denverite.com/2026/05/18/denver-data-center-moratorium-passes-ban/) The Denverite, 18 May 2026
+[Denver names data center advisory group amid moratorium](https://coloradosun.com/2026/10/07/denver-data-center-working-group-advisory/). The Colorado Sun, 7 Oct 2026
+
+[Data center moratorium gets unanimous approval in Denver, but that’s just the beginning](https://denverite.com/2026/05/18/denver-data-center-moratorium-passes-ban/). The Denverite, 18 May 2026
 
 ## Public-Facing Articles Benji Wrote
 _I also periodically blog about my research and teaching to broader audiences on [Medium](https://medium.com/@benjixie)._
