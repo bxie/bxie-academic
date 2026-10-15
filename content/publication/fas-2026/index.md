@@ -42,7 +42,9 @@ featured: false
 links:
 - name: Published Memo
   url: https://fas.org/publication/coloradans-should-require-data-center-measurements-they-can-trust/
-- name: Slides
+- name: Slides (Scrivner Institute, Oct 2026)
+  url: https://docs.google.com/presentation/d/17XgxhZmJnsQQ7wwtEX7gUA2F0xABMGGdnct7eMycPlw/edit?usp=sharing
+- name: Slides (FAS Showcase, Aug 2026)
   url: https://docs.google.com/presentation/d/1enxHohl8Wa3qdN6IwBAPd2J6L-vA2aGKjAPPpt8pyqY/edit?usp=sharing
 # - name: Blog Post
 #   url: https://medium.com/bits-and-behavior/a-decade-of-demographics-in-computing-education-research-7c78812ef0fb
