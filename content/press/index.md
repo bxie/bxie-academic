@@ -27,6 +27,10 @@ header:
 
 ## News About Benji the Academic
 
+[Autonomous Mind | Are data centers the new AI bogeyman?](https://www.denvergazette.com/2026/10/29/are-data-centers-the-ai-bogeyman-autonomous-mind/). Thelma Grimes, Denver Gazette. 29 Oct 2026.
+
+[As data centers boom, DougCo residents share concerns](https://www.youtube.com/watch?v=hD6nU3lpT0E). Tyler Melito, Denver7. 26 June 2026.
+
 [_More people might misunderstand AI than you think. Here’s why_](https://stanforddaily.com/2025/01/17/why-people-misunderstand-ai/). Jolie Li, Stanford Daily. 17 Jan 2025.
 
 [_Equity Spotlight: Benjamin Xie_](https://dl.acm.org/doi/pdf/10.1145/3717596.3717604). Julie M. Smith and Charles Wallace, SIGCSE Bulletin. Jan 2025.
