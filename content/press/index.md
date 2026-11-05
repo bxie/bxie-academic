@@ -1,5 +1,5 @@
 ---
-title: In the News
+title: News & Press
 summary: News articles about me and my research
 date: "2021-07-23T00:00:00Z"
 
@@ -25,7 +25,9 @@ header:
   image: ""
 ---
 
-## News About Benji the Academic
+**For media inquiries, please contact the [DU media relations hotline](https://www.du.edu/news/for-media) and/or [email me](/#contact).**
+
+## News About My Research
 
 [_Autonomous Mind | Are data centers the new AI bogeyman?_](https://www.denvergazette.com/2026/10/29/are-data-centers-the-ai-bogeyman-autonomous-mind/). Thelma Grimes, Denver Gazette. 29 Oct 2026.
 
@@ -53,15 +55,18 @@ header:
 
 [Data center moratorium gets unanimous approval in Denver, but that’s just the beginning](https://denverite.com/2026/05/18/denver-data-center-moratorium-passes-ban/). The Denverite, 18 May 2026
 
-## Public-Facing Articles Benji Wrote
+## Public-Facing Articles I Wrote
 _I also periodically blog about my research and teaching to broader audiences on [Medium](https://medium.com/@benjixie)._
+
+[_How Colorado Can Mandate Data Center Transparency_](https://fas.org/publication/coloradans-should-require-data-center-measurements-they-can-trust/).  Federation of American Scientists, 26 Oct 2026.
+
 
 [_Beyond Moderation: Exploring Tech Strategies to De-Escalate Political Conflict_](https://ethicsinsociety.stanford.edu/news/beyond-moderation-exploring-tech-strategies-de-escalate-political-conflict). McCoy Family Center for Ethics in Society, 13 Dec 2023.
 
 [_Much-needed fact-checking of Dr. Veltmeyer’s COVID-19 claims_](https://web.archive.org/web/20210209035459/https://www.mtdemocrat.com/opinion/guest-column-much-needed-fact-checking-of-dr-veltmeyers-covid-19-claims/). Mt. Democrat, 17 Aug 2020.
 
 
-## Silly Things Benji was Quoted as Saying
+## Silly Things I was Quoted as Saying
 I have a hidden talent of saying silly things to reporters:
 
 > I was just a little camel in the beginning.

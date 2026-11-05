@@ -29,7 +29,7 @@
   weight = 35
 
 [[main]]
-  name = "in the news"
+  name = "press"
   url = "/press"
   weight = 40
 
