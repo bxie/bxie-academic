@@ -19,39 +19,68 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Presenting at DU Ignite on Jan 14, 2026"
-  url="https://www.du.edu/orsp/events/ignite-talks-january"
-  date = "2026-01-01"
-  description = "Presenting on my interdisciplinary research efforts to embed critical AI education into K-12."
-  url_text="about event"
+  title = "Named DU Public Impact Fellow"
+  url="https://www.du.edu/news/du-welcomes-ninth-cohort-public-impact-fellows"
+  date = "2026-10-13"
+  description = "Connecting my research and teaching on AI, data centers, and their impacts with community-based organizations, civil servants, and policymakers."
+  url_text="see announcement"
 
 [[item]]
-  title = "Awarded ACM SIGCSE Special Projects Grant "
-  url="https://sigcse.org/programs/special/"
-  date = "2026-01-29"
-  description = "Grant funds CS PhD student Demi Jaiyeola's research on improving neurodiverse programming students' experiences with AI tools."
-  url_text="about grant"
+  title = "Selected to Denver Data Center Working Group"
+  url="https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Mayors-Office/News/2026/Denver-Announces-Working-Group-on-Data-Centers"
+  date = "2026-10-07"
+  description = "Recommending policies to govern new data centers with representatives of communities, unions, utilities, industry, NGOs, academia, and health care."
+  url_text="see press release"
 
 [[item]]
-  title = "Awarded DU Grant to Investigate Sexism in Human-AI Interactions"
-  url="https://www.du.edu/facsen/awards-grants/faculty-research-fund"
-  date = "2025-12-19"
-  description = "Grant funds collaboration w/ Prof. Lindsey Feitz (Gender and Women's Studies) and supports CS PhD student Sunny Shretha's research."
-  url_text="about grant"
+  title = "Awarded Mozilla Grant!"
+  url="https://www.du.edu/news/weekly-letter-provost-october-9-edition#:~:text=Ritchie%20School%20of%20Engineering%20Faculty%20Win%20Mozilla%20Grant"
+  date = "2026-10-09"
+  description = "Prof. AL Oleson and I were awarded a Mozilla Responsible Computing Challenge Grant to incorporate responsible AI instruction into humanities and social sciences courses."
+  url_text="see announcement"
 
 [[item]]
-  title = "Faculty Affiliate with Scrivner Institute of Public Policy"
-  url="https://korbel.du.edu/scrivner/"
-  date = "2025-11-20"
-  description = "Working to inform evidence-based AI policy making in Colorado."
-  url_text="about institute"
+  title = "Policy Memo Published"
+  url="https://fas.org/publication/coloradans-should-require-data-center-measurements-they-can-trust/"
+  date = "2026-08-26"
+  description = "Developed memo on rebuilding public trust in data center development through monitoring and reporting."
+  url_text="see publication"
 
-[[item]]
-  title = "Founded DU Human-Computer Interaction Group"
-  url="https://ritchieschool.du.edu/hci"
-  date = "2025-10-01"
-  description = "With Profs. Alannah Oleson and Kerstin Hering, I founded a research group to design technologies that augment people and communities."
-  # url_text="see paper"
+
+# [[item]]
+#   title = "Presenting at DU Ignite on Jan 14, 2026"
+#   url="https://www.du.edu/orsp/events/ignite-talks-january"
+#   date = "2026-01-01"
+#   description = "Presenting on my interdisciplinary research efforts to embed critical AI # education into K-12."
+#   url_text="about event"
+
+# [[item]]
+#   title = "Awarded ACM SIGCSE Special Projects Grant "
+#   url="https://sigcse.org/programs/special/"
+#   date = "2026-01-29"
+#   description = "Grant funds CS PhD student Demi Jaiyeola's research on improving neurodiverse # programming students' experiences with AI tools."
+#   url_text="about grant"
+
+# [[item]]
+#   title = "Awarded DU Grant to Investigate Sexism in Human-AI Interactions"
+#   url="https://www.du.edu/facsen/awards-grants/faculty-research-fund"
+#   date = "2025-12-19"
+#   description = "Grant funds collaboration w/ Prof. Lindsey Feitz (Gender and Women's Studies) # and supports CS PhD student Sunny Shretha's research."
+#   url_text="about grant"
+
+# [[item]]
+#  title = "Faculty Affiliate with Scrivner Institute of Public Policy"
+#  url="https://korbel.du.edu/scrivner/"
+#  date = "2025-11-20"
+#  description = "Working to inform evidence-based AI policy making in Colorado."
+#  url_text="about institute"
+
+# [[item]]
+#   title = "Founded DU Human-Computer Interaction Group"
+#   url="https://ritchieschool.du.edu/hci"
+#   date = "2025-10-01"
+#   description = "With Profs. Alannah Oleson and Kerstin Hering, I founded a research group to # design technologies that augment people and communities."
+#   # url_text="see paper"
 
 # [[item]]
 #   title = "Article accepted to ACM Inroads Magazine"
